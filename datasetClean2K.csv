@@ -1,0 +1,2000 @@
+0,Ristorante Da Renzo,Italy,4.0,1
+1,Oishi Restaurant,Italy,3.5,3
+2,Al Solito Posto,Italy,4.0,1
+3,Patatrak Trento,Italy,4.0,1
+4,Riposo Nel Bosco Caffe Ristorante,Italy,3.5,1
+5,Tibet,Italy,4.0,3
+6,Restaurant Gallia,Italy,4.5,3
+7,Chalet Casalpiano,Italy,4.0,1
+8,Ristorante pizzeria Bianca Di Navarra,Italy,3.5,3
+9,Terramara,Italy,4.5,3
+10,Ristorante Agrituristico Rosacambra,Italy,4.0,1
+11,Pizzeria A' Musciara,Italy,3.5,1
+12,Ma'Kaura,Italy,4.5,3
+13,Terrazzo Azzurro,Italy,4.0,3
+14,Piper,Italy,3.5,3
+15,Panificio Passarello,Italy,4.0,1
+16,Sound Music Bistrot,Italy,4.5,3
+17,Caffe Mokambo,Italy,4.5,1
+18,Al Buffo,Italy,3.5,3
+19,Strapizzami,Italy,4.0,1
+20,Pasticceria Eduardo di Scarso,Italy,4.0,1
+21,Agriturismo Scribano,Italy,4.5,1
+22,Azienda Agricola Passolato,Italy,5.0,1
+23,Al Vecchio Mulino,Italy,4.0,3
+24,Pizzeria Al Vicolo,Italy,5.0,1
+25,Al Giardino di Bianca,Italy,3.5,3
+26,Altrocheimpasto,Italy,4.5,3
+27,Il Gusto Pizzeria,Italy,4.0,3
+28,Mene Beach Club,Italy,4.0,3
+29,Macckeroni,Italy,4.0,1
+30,Osteria 89,Italy,4.0,3
+31,The King dell'Arrosticino,Italy,4.5,3
+32,La Vecchia Locanda,Italy,4.5,3
+33,L'Aragosta - Battista Pescheria,Italy,3.0,3
+34,La Tavernetta,Italy,3.5,3
+35,Tucano Beach,Italy,3.5,3
+36,Ristorante Sora Teresa,Italy,4.0,3
+37,Mr. Ice,Italy,4.5,1
+38,Ristorante Torre Marina Beach,Italy,3.0,3
+39,Taverna Dei Rutuli,Italy,4.5,3
+40,Paparella,Italy,2.5,3
+41,Anni 50 Caffe,Italy,4.5,1
+42,Il Casaletto,Italy,3.5,3
+43,Stabilimento La Cannuccia,Italy,3.5,3
+44,ristopizza ai portici,Italy,4.0,1
+45,Conforti Le Bombe Calde,Italy,3.0,1
+46,Pizzalandia,Italy,5.0,1
+47,Corte In Fiore Restaurant,Italy,4.5,3
+48,Lo Sfizio - Steak House,Italy,4.5,3
+49,Piatto Ricco Ristorante Pizzeria Braceria,Italy,3.5,3
+50,La Pineta dei Liberti Restaurant,Italy,4.0,3
+51,Gelateria Danigel,Italy,4.0,3
+52,Al Centro,Italy,2.5,3
+53,Lo Spuntino,Italy,5.0,1
+54,La Veranda,Italy,3.0,3
+55,bagni stella,Italy,4.0,1
+56,La Ruota,Italy,5.0,1
+57,Al 360 gradi,Italy,4.0,3
+58,Marina Di Ardea,Italy,4.0,1
+59,Pasticceria Salernitana,Italy,3.5,1
+60,Mirketto,Italy,3.0,1
+61,Bar Marino,Italy,4.5,1
+62,Gente di Mare,Italy,3.5,3
+63,Terrazza Sant'Anna,Italy,3.5,3
+64,Osteria degli Osti Nati,Italy,4.0,1
+65,Taverna San Domenico,Italy,4.0,3
+66,Le Fontane,Italy,4.0,3
+67,Agriturismo Il Fosto,Italy,4.0,3
+68,Il Poggio,Italy,4.5,1
+69,Osteria Sant'Angelo,Italy,4.5,3
+70,Hostaria Da Vigno,Italy,4.0,3
+71,La Gioconda Ristorante,Italy,4.5,3
+72,Pineta,Italy,3.5,3
+73,Il Ristoro Del Passante,Italy,4.0,1
+74,Hosteria Del Vigno,Italy,4.0,3
+75,Terrazza Sul Burano,Italy,4.5,3
+76,Ristorante Pizzeria 2000,Italy,4.0,1
+77,Jolly Ristorante Pizzeria,Italy,4.0,1
+78,Agri Campagna,Italy,5.0,1
+79,Peperusko,Italy,4.0,1
+80,Trattoria dal Vecchio Scarpone,Italy,4.5,1
+81,Al Becco della Civetta,Italy,4.5,3
+82,Grotta Dell'Eremita,Italy,4.0,3
+83,Agriturismo Il Molino della Contessa,Italy,4.0,1
+84,Pizzeria Rosticceria 2T,Italy,4.5,1
+85,Trattoria da Spadino,Italy,4.5,3
+86,Osteria Re di Spade,Italy,4.0,3
+87,Civico9 Food&Drink,Italy,5.0,1
+88,Ristorante Gattogiallo,Italy,4.5,3
+89,Agriturismo Il Colombaio,Italy,4.0,3
+90,Ristorante Sabaru,Italy,3.0,3
+91,Ristorante La Taiadela,Italy,3.5,3
+92,Osteria La Vecia Ustari,Italy,4.0,3
+93,Trattoria al Gallo,Italy,4.0,3
+94,Il Fienile,Italy,3.5,1
+95,Mondopizza,Italy,3.5,1
+96,La Pizzeria,Italy,3.5,1
+97,Ristorante Ensama Pesce,Italy,5.0,5
+98,La Piccola Fattoria 2.0,Italy,3.5,1
+99,La Taverna di C.,Italy,4.5,3
+100,Ristorante Due Spade,Italy,4.0,5
+101,Avenida Tapas Bar & Ristorantino,Italy,4.0,3
+102,Tredici.9,Italy,3.5,1
+103,Pasticceria Reina,Italy,3.5,5
+104,Il Caffe Degli Artisti,Italy,3.5,3
+105,Ristorante Pizzeria Il nuovo Padrino,Italy,4.0,3
+106,Sa Fem a Mesdi,Italy,4.5,1
+107,La Veranda Coffee Bar,Italy,3.0,3
+108,Atipico,Italy,3.5,3
+109,I Vinattieri,Italy,4.5,3
+110,L'Officina Pizza al Trancio con Cucina,Italy,4.0,1
+111,Miu Sushi,Italy,3.0,3
+112,Calavera Restaurant,Italy,3.0,3
+113,Bottega Culinaria,Italy,4.5,3
+114,Oya Sushi Fusion Experience,Italy,3.0,3
+115,14 Grani Pizza Experience,Italy,4.5,5
+116,Habanero,Italy,3.5,3
+117,SoGud,Italy,3.0,3
+118,Shabu Cernusco sul Naviglio,Italy,4.0,3
+119,In Filanda Restaurant & Cafe,Italy,3.0,3
+120,Ristorante Porcaloca,Italy,4.0,3
+121,Ristorante La Torre,Italy,4.0,3
+122,Cafe & Chocolat,Italy,4.5,3
+123,Ristorante Naviglio,Italy,3.5,3
+124,Torrefazione Gadda,Italy,4.0,3
+125,Pasticceria Regina,Italy,4.0,3
+126,14 Gradi,Italy,3.0,3
+127,Gelateria Di Cernusco,Italy,3.5,3
+128,Vino e Cucina,Italy,4.5,3
+129,Osteria Perbacco,Italy,4.0,3
+130,Agriturismo Cascina Nibai,Italy,4.0,3
+131,Ristorante Pizzeria 360gradi,Italy,3.5,1
+132,Caffe Pis Pai,Italy,4.0,1
+133,Caffe delle contrade,Italy,4.0,1
+134,Maxi Bar,Italy,4.5,1
+135,La Cina,Italy,3.5,1
+136,Titanic 2,Italy,4.0,3
+137,28Tre,Italy,3.0,1
+138,La Yogurteria Mama,Italy,4.5,1
+139,Bar Quaranta,Italy,4.5,1
+140,La Tana del Gusto,Italy,3.5,1
+141,Pizzeria Toto Di Miele Fabio,Italy,4.0,1
+142,Pazza Pizza a Pezzi,Italy,4.0,1
+143,Porcaloca Café,Italy,3.0,3
+144,Pasticceria del Centro,Italy,3.5,3
+145,Jinyuan Wok Restaurant,Italy,3.0,1
+146,Mela Cannella,Italy,4.0,1
+147,Vespucci Pizza E Drink,Italy,4.0,1
+148,Tokyo Ristorante Sushi,Italy,3.5,1
+149,Ristorante Pizzeria Peter Pan,Italy,3.5,3
+150,Portarossa Restaurant,Italy,4.0,3
+151,Bum Bum Bar Paninoteca Pizzeria,Italy,4.5,1
+152,Dame' Cioccolato Te' Caffe',Italy,3.5,3
+153,BioToBe,Italy,4.5,3
+154,Rebelot,Italy,4.0,3
+155,Ristorante Pizzeria Jolly,Italy,4.0,3
+156,Giraffa,Italy,2.5,1
+157,Bar Centro Locanda della Buona Notte,Italy,4.0,3
+158,The Shamrock's Pub,Italy,4.0,3
+159,Bar Cavour 2.0,Italy,5.0,1
+160,Enoteca La Gorda,Italy,4.5,3
+161,Il Ciliegino Tornabuoni,Italy,4.0,3
+162,OSTERIA L'OSTE NERO,Italy,4.5,3
+163,ACQUA E VINO,Italy,4.5,3
+164,Locanda COS,Italy,3.5,3
+165,O'Sciality,Italy,4.5,1
+166,Ristorante Picchio Verde,Italy,4.0,3
+167,Panificio Massaro,Italy,4.5,1
+168,Villa Orchidea Restaurant,Italy,3.5,3
+169,La Belle Époque,Italy,4.0,3
+170,Ai Tre Laghetti,Italy,3.5,3
+171,Gustó,Italy,4.5,1
+172,Mangiami Ristorante Pizzeria,Italy,4.0,3
+173,Villa Melania Restaurant,Italy,4.0,3
+174,Caffetteria del teatro,Italy,4.0,3
+175,Terramatta Loft,Italy,4.0,3
+176,La Cantina trattoria pizzeria,Italy,4.5,1
+177,Barbque,Italy,4.0,3
+178,Tinghino Sicilian Delicacies,Italy,4.5,3
+179,Sikelia Gastronomia & Restaurant,Italy,4.5,3
+180,Ristorante Pizzeria a Modo Mio,Italy,3.0,3
+181,Mangia & Torna,Italy,3.5,3
+182,Kamarina Cafe,Italy,5.0,3
+183,Panificio Pizzeria Rosticceria Morreale,Italy,4.5,1
+184,Ristorante Fichera,Italy,3.5,3
+185,Ristorante Al Gabbiano,Italy,4.0,3
+186,Viri Ku C'è,Italy,4.0,3
+187,Le Spiaggette,Italy,3.0,3
+188,La Vela,Italy,4.0,3
+189,Il Conte Nero,Italy,4.0,3
+190,Trattoria del Pescatore,Italy,4.0,3
+191,Gazirat,Italy,4.5,3
+192,Chi Ti Ci Miettu?,Italy,3.5,1
+193,La Capannina Scoglitti,Italy,3.5,3
+194,L'Uortu do Re Cuccu,Italy,3.0,3
+195,Bar Pasticceria da Stefania,Italy,3.5,1
+196,Ristorante Pizzeria Sculipulis,Italy,3.5,3
+197,Stuzzico Panineria Creperia,Italy,4.5,1
+198,Bar Miramare,Italy,3.5,1
+199,Cafe del Corso,Italy,4.5,1
+200,Dolcidea Solocosebelle,Italy,4.5,1
+201,Sakalleo,Italy,4.0,3
+202,American Delight,Italy,3.5,1
+203,A Putìa di Colapesce,Italy,4.5,1
+204,Isola del Dolce,Italy,5.0,1
+205,Diamond Lounge Bar,Italy,4.0,1
+206,Anchovy Fish Bar,Italy,4.0,1
+207,A' Latruzza,Italy,4.0,3
+208,Arcobaleno Ristorante - Pizzeria,Italy,4.5,3
+209,Il Covo Marino,Italy,4.0,3
+210,Trattoria da Federico,Italy,4.0,3
+211,Trattoria Porto Nuovo Acitrezza,Italy,4.0,3
+212,Trattoria Verga da Gaetano,Italy,3.5,3
+213,Il Moro di Trezza,Italy,4.0,3
+214,Faraglioni Restaurant,Italy,5.0,3
+215,Trattoria Il Nespolo,Italy,4.0,3
+216,Trattoria I Malavoglia da Paolino,Italy,3.5,3
+217,Gente di Mare,Italy,4.0,3
+218,Hotel Ristorante Lachea,Italy,4.0,3
+219,Ristorante Pizzeria Lachea,Italy,4.0,3
+220,Osteria dei Marinai,Italy,4.5,3
+221,Gran Cafe Solaire,Italy,4.0,1
+222,Pizza Fantasy,Italy,4.5,1
+223,Luna Rossa,Italy,4.0,3
+224,Eden Bar,Italy,4.0,1
+225,Pizzeria Pellegrino,Italy,3.5,3
+226,Copacabana Ristorante Pizzeria,Italy,3.0,3
+227,Ristosnack Pistorio,Italy,4.5,1
+228,Alla Vecchia Fontana,Italy,4.0,1
+229,Sicilia's Cafe de Mar,Italy,3.5,3
+230,Vecchia Marina a'Urnazza Acitrezza,Italy,4.0,1
+231,Le Muse,Italy,4.0,3
+232,Melino's,Italy,4.5,3
+233,Ristorante Il Veliero,Italy,3.5,1
+234,Molo 7,Italy,4.0,3
+235,Gatto Nero Pub,Italy,4.5,1
+236,Da cellino,Italy,4.5,1
+237,Hotel Balai Restaurant,Italy,4.5,1
+238,Marcello & Hana of la Bottega Del Mondo,Italy,5.0,3
+239,Ristorante Pizzeria San Gavino,Italy,4.5,3
+240,Ristorante Mama Giu,Italy,4.5,5
+241,Gelateria La Cialda,Italy,4.5,1
+242,Il Galeone,Italy,3.0,3
+243,Il Cicchetto Ristorante Pizzeria,Italy,4.5,3
+244,Ristorante da Marco,Italy,5.0,3
+245,Braceria Carboni Ardenti,Italy,4.5,1
+246,Scogliolungo,Italy,3.5,3
+247,Ristorante Il Carillon di Porceddu Mario Nino,Italy,4.0,3
+248,Ristorante Pizzeria Piazza Garibaldi,Italy,4.0,3
+249,Bar Sport Ristorante,Italy,4.5,3
+250,Tenuta Li Lioni,Italy,4.5,3
+251,La rosa dei venti,Italy,4.0,3
+252,Il Mare,Italy,4.5,3
+253,La Tana,Italy,4.0,1
+254,Il Gobbo,Italy,4.0,3
+255,L'Ostrica,Italy,3.5,3
+256,Bar Pasticceria Cristallo,Italy,3.0,3
+257,Ristorante Pizzeria Babbai,Italy,4.5,3
+258,Cuccarazzena,Italy,4.5,3
+259,"Il Drago - Pizzeria, Paninoteca, Vegan Food",Italy,4.0,1
+260,Ristorante Pizzeria Il Corallo 2,Italy,4.0,1
+261,Fuori Orario S.R.L.,Italy,3.5,1
+262,Pizzeria La Piazzetta Di Sotgiu Giuseppe,Italy,4.0,1
+263,Hotel Libyssonis Restaurant,Italy,4.5,3
+264,Ristorante Pizzeria da Teseo,Italy,4.0,1
+265,Pepito Pizza,Italy,4.5,1
+266,Ristorante Bar L'Asino Bianco,Italy,3.5,3
+267,La Locanda Di Satta Valeria,Italy,3.5,1
+268,Turris Gourmet Gastronomia,Italy,5.0,1
+269,Biffy,Italy,4.0,3
+270,Villa 58,Italy,4.5,3
+271,Arco Antico,Italy,4.5,3
+272,Braceria Dragone,Italy,4.0,3
+273,Imperatore di Puglia,Italy,4.5,5
+274,Ristorante Della Nonna,Italy,2.5,1
+275,La Giara,Italy,5.0,1
+276,Villa D'Anzi Ristorante Pizzeria,Italy,4.0,3
+277,Pizzeria Antiche Mura,Italy,4.0,1
+278,Macelleria da Mimmo & Rosa,Italy,4.0,3
+279,La Pescarella,Italy,4.0,3
+280,Macelleria Rosticceria Vito Ribecco,Italy,4.0,1
+281,Macelleria Braceria di Michele Carpignano e Anna Rosa Luisi,Italy,4.5,1
+282,La Macelleria Di Francesca Carpignano,Italy,5.0,3
+283,Il Rifugio della Volpe,Italy,3.5,1
+284,Caseificio Digregorio,Italy,4.5,1
+285,Il Praedio della Reale,Italy,4.5,3
+286,Ristorante Pizzeria Rosticceria Tenuta Cantore,Italy,4.0,1
+287,Palazzo Pupino Ristorante Pizzeria,Italy,4.0,3
+288,L'angolo Di Puglia,Italy,4.5,3
+289,Cavese,Italy,4.5,1
+290,L'arte Della Pizza,Italy,4.5,5
+291,Caseificio Lanzillotti,Italy,4.5,3
+292,LaChiazza,Italy,4.0,1
+293,Braceria del corso,Italy,4.5,1
+294,Emalu,Italy,4.0,3
+295,La Pucceria da Tommy,Italy,4.0,1
+296,"Ristorante Pizzeria ""Il Vulcano""",Italy,3.5,3
+297,Locanda Di Nonna Mena,Italy,4.5,3
+298,L'Archetto della Brace,Italy,4.0,3
+299,La Tana del Luppolo,Italy,4.5,3
+300,Broadway,Italy,4.5,1
+301,Cheers,Italy,4.0,1
+302,ExFaddaCaffe,Italy,4.5,1
+303,Pizza E Grill Natola,Italy,3.5,1
+304,Fattorie Grottamiranda Azienda Agricola Tedesco,Italy,4.5,3
+305,XFOOD,Italy,4.5,3
+306,Pasticceria Gelateria Centrale,Italy,4.5,1
+307,La Vecchia Lamia,Italy,4.5,3
+308,Friggitoria Musa,Italy,4.5,1
+309,Sale Zucchero Caffè,Italy,4.5,1
+310,La Locanda Bagnara Ristorante,Italy,4.5,5
+311,Il Molinello,Italy,4.0,3
+312,Ristorante Pizzeria Da Guido,Italy,3.5,1
+313,Osteria Del Povero Giorgio,Italy,3.5,1
+314,Locanda di B,Italy,5.0,3
+315,Ristorante da Nilo,Italy,4.5,3
+316,Trattoria del Contadino,Italy,4.5,3
+317,La Frateria Di Padre Eligio Restaurant,Italy,5.0,5
+318,L Osteria del Merlo,Italy,4.5,3
+319,53040 Ristorante Pizzeria,Italy,4.5,3
+320,Cantina la Frasca,Italy,4.5,3
+321,La Taverna del Moro Sullo Scoglio di Circe,Italy,4.5,3
+322,Pizzeria e Hamburgeria da Nilo,Italy,4.5,3
+323,Fermentum,Italy,4.5,3
+324,Ristorante Gli Ulivi,Italy,4.5,3
+325,Arcus Pizza & Grill,Italy,4.0,3
+326,Ristorante Pizzeria da Franco,Italy,4.0,3
+327,Exedra Restaurant,Italy,4.0,1
+328,Quadrifoglio,Italy,4.5,3
+329,Napule e'... Pizzeria Napoletana,Italy,3.5,1
+330,Masseria Gentile,Italy,3.5,3
+331,Masseria Montetirena,Italy,3.5,3
+332,Locanda Calieri,Italy,4.0,3
+333,RE Matto,Italy,4.0,3
+334,Il Bruschettone,Italy,4.5,1
+335,Le Capriate,Italy,4.0,3
+336,Fra Diavolo,Italy,4.0,1
+337,Agriturismo Aromi e Sapori,Italy,4.5,3
+338,La Vineria 02,Italy,4.5,3
+339,SiBi' Bistrot,Italy,4.5,3
+340,Tamburo Battente Osteria,Italy,4.0,3
+341,Buongustaio,Italy,4.0,3
+342,Ristorante C(K)antina,Italy,4.5,3
+343,La Giulia Ristorante,Italy,3.5,3
+344,Locanda Arcidiacono,Italy,3.5,3
+345,Antico Caffe del Moro,Italy,2.0,3
+346,Ristorante Perballe,Italy,3.5,3
+347,Ristorante degli Aranci,Italy,3.5,3
+348,Focacceria Cinzia,Italy,4.0,1
+349,Lungomare,Italy,3.5,3
+350,Osteria Antica Guetta,Italy,4.0,3
+351,Bar Ristorante Lorella,Italy,3.5,3
+352,Villa Belvedere Restaurant,Italy,4.5,3
+353,Rosticceria Gastronomia La Madonnina,Italy,4.0,1
+354,Bar MarAlbi,Italy,4.0,3
+355,Focacceria Antica Liguria,Italy,4.5,1
+356,Caffe Delle Rose,Italy,3.5,3
+357,Bagni San Giorgio,Italy,4.0,3
+358,Le Megavoglie,Italy,4.5,1
+359,U Pertusu,Italy,4.0,1
+360,Zum Pfitscher,Italy,4.5,3
+361,Fate Vobis,Italy,3.0,3
+362,Risosteria Sant Andrea,Italy,4.0,3
+363,La Dolce Vita,Italy,4.5,3
+364,Le Terrazze Sul Po,Italy,4.0,3
+365,Ristorante Trattoria Bigiolla,Italy,4.0,3
+366,Bar Pizzeria Trattoria Lilia,Italy,3.5,1
+367,Trattoria Benlodi,Italy,4.0,3
+368,La Brasserie,Italy,4.5,3
+369,Societa Operaia Borgiallo,Italy,4.0,3
+370,Ristorante Pizzeria Le Due Querce,Italy,4.5,3
+371,Ristorante Madonna Del Pozzo,Italy,4.5,3
+372,PicNic & More,Italy,5.0,1
+373,Casa Beust,Italy,4.5,3
+374,Ristorante Pizzeria 600,Italy,3.5,3
+375,Ristorante Colle Degli Ulivi,Italy,4.0,3
+376,Osteria n1,Italy,3.5,3
+377,Al Laghetto Cicogna,Italy,3.5,3
+378,Agriturismo Prisco,Italy,4.5,1
+379,Il Triangolo Azzurro,Italy,4.0,1
+380,Est Restaurant,Italy,4.5,3
+381,La Rosa dei Venti,Italy,4.5,3
+382,Il Villino,Italy,3.5,3
+383,Ristorante Bagno Marino Archi,Italy,3.5,3
+384,Trattoria Da Abramo,Italy,4.0,3
+385,La Pineta,Italy,4.0,3
+386,La Torre,Italy,3.5,3
+387,Augustus Resort & Restaurant,Italy,4.5,3
+388,The Riviera,Italy,4.0,3
+389,La Bettola,Italy,3.5,3
+390,Marecbar & Gastronomia,Italy,4.5,3
+391,Friggitoria Porto Russo,Italy,2.5,1
+392,Bar Elisir,Italy,3.0,1
+393,Crepes Zorbas,Italy,3.5,3
+394,Ristorante del 19 Summer Club,Italy,3.5,3
+395,Moresco Cafe,Italy,4.5,1
+396,Il veliero,Italy,3.5,1
+397,"Gastronomia ""Mamma Fina""",Italy,4.0,1
+398,Oasi Blu,Italy,5.0,5
+399,"Acqua Sale - Pizza, Fritto e Mare",Italy,4.0,3
+400,Pizzeria Nord-Ovest,Italy,3.5,3
+401,Il Pirata,Italy,2.5,1
+402,Sisineddu,Italy,4.0,1
+403,U Recantu La Caletta,Italy,4.0,3
+404,Ristorante Pizzeria Bar Kambusa,Italy,3.5,3
+405,U' Palacca,Italy,3.5,3
+406,Ristorante Da Pasqualino,Italy,4.0,3
+407,Ca Taborka,Italy,4.0,3
+408,Agriturismo Tupei,Italy,3.5,3
+409,Ristorante Pizzeria L'Approdo,Italy,4.0,3
+410,Pizzeria Tore,Italy,2.5,1
+411,Palomar Cafe Bistrot,Italy,4.0,3
+412,Il Pinguino,Italy,4.0,1
+413,La Perla,Italy,4.5,3
+414,Rosticceria Fratelli Rombi,Italy,4.5,1
+415,Cafe Del Mar,Italy,3.0,1
+416,Ristorante La Dimora Del Lupo,Italy,3.5,3
+417,A Due Passi Dal Mare,Italy,4.5,3
+418,Ristorante Don Gaetano,Italy,4.0,3
+419,caffetteria woodhouse,Italy,4.5,1
+420,PIZZ'ART,Italy,4.5,1
+421,La Pizza Magica,Italy,4.5,1
+422,Enoteca Le Melorie,Italy,4.0,3
+423,Il Pomodorino Pizzeria,Italy,2.5,3
+424,Ristorante Frank,Italy,4.0,3
+425,Pizzeria Il Fornaretto,Italy,4.0,1
+426,L'Ariete,Italy,4.0,3
+427,Ponte di Sacco,Italy,4.0,3
+428,Casale Le Torri,Italy,4.5,3
+429,Il Miraggio,Italy,5.0,3
+430,Ristorante Osteria Dalla Bianca,Italy,3.5,1
+431,La Locanda di Camugliano,Italy,4.5,3
+432,Pizzeria Il Cantuccio Da Ale,Italy,4.0,1
+433,Pasticceria Roxy Bar,Italy,3.5,3
+434,Ristorante pizzeria american bar,Italy,3.5,1
+435,Pasticceria Orso,Italy,4.5,3
+436,Pizzeria da Ciro,Italy,4.5,1
+437,Il Pastore Abruzzese,Italy,4.5,3
+438,Tuttaccoglie,Italy,4.5,3
+439,Da Leo,Italy,4.5,5
+440,Bagaria American Dinner,Italy,3.5,3
+441,Mamì Ristorante,Italy,3.5,3
+442,Casa Del Boconotto Srl,Italy,4.5,1
+443,Agriturismo Fattoria Carbonetta,Italy,4.5,1
+444,Trattoria Delle Frapa,Italy,4.5,3
+445,Shabu Shabu 3,Italy,3.5,3
+446,Natural Bistrot,Italy,4.0,3
+447,Ristorante Taverna Anxa,Italy,5.0,5
+448,Sciapo' Pecora & Co,Italy,3.5,3
+449,Pizzeria La Pinsa Romana,Italy,3.5,1
+450,Pizzeria Braceria Santa Croce,Italy,3.5,3
+451,Spazio 33,Italy,4.5,3
+452,Ristorante Ferramenta arrosticini&diversi,Italy,4.5,3
+453,Pizzeria Napule è,Italy,3.0,1
+454,Ai Vecchi Sapori,Italy,4.0,3
+455,Ristorante Ribot,Italy,4.5,3
+456,Restaurant Pizzeria Il Pino,Italy,4.0,3
+457,Ristorante Pizzeria La Torre,Italy,4.0,3
+458,Caffè Ai Portici,Italy,3.5,3
+459,Pizzeria Lanterna Verde,Italy,3.5,1
+460,Ristorante Convivium,Italy,3.0,3
+461,Trattoria Paolucci,Italy,4.0,3
+462,Agriturismo Caniloro,Italy,4.0,3
+463,Il Chiostro,Italy,4.0,1
+464,Ristorante Taverna del Marinaio - Enoteca,Italy,4.5,3
+465,Pizzeria Sir Daniel's,Italy,4.5,3
+466,Barbecue,Italy,3.5,1
+467,Pasticceria Veronese,Italy,3.0,3
+468,Osteria dei sapori,Italy,4.0,3
+469,Bruschetteria Marfisi,Italy,3.5,1
+470,La Corona Di Ferro,Italy,4.0,3
+471,Ristorante Pizzeria Insieme,Italy,3.0,3
+472,Osteria Patria,Italy,4.0,3
+473,Pizzeria Ristorante Evergreen,Italy,4.0,3
+474,Ristorante Pizzeria da Carlino,Italy,3.5,3
+475,Rosa dei Venti,Italy,4.0,3
+476,Il Caminetto,Italy,4.5,3
+477,Villa Elena Lanciano,Italy,4.0,3
+478,PizzAngelo,Italy,4.0,1
+479,Piana del Sole,Italy,4.5,1
+480,La Sciuscillette,Italy,3.5,1
+481,La Locanda Del Malvo',Italy,3.5,3
+482,Ruhental,Italy,4.0,1
+483,Hong Sushi Wok,Italy,4.0,1
+484,Bistrot 900,Italy,4.5,3
+485,il Grappolo Restaurant,Italy,4.5,3
+486,stuzzicotto,Italy,4.0,1
+487,Ristorante Cinese,Italy,3.0,1
+488,Pizzeria Grotta Azzurra,Italy,4.0,3
+489,Il Piacere,Italy,4.5,3
+490,Hotel Ristorante La Furnacelle,Italy,4.0,3
+491,Pasta Per Passione,Italy,4.5,1
+492,Pizzeria Il Sogno,Italy,4.0,1
+493,dolceAMARO,Italy,3.0,3
+494,Birreria La Porta,Italy,4.0,1
+495,La Terrazza,Italy,3.5,1
+496,Pasticceria La Lancianese,Italy,4.5,1
+497,Trattoria Amici della Forchetta,Italy,4.0,3
+498,Caffetteria Fenaroli,Italy,5.0,1
+499,Pazzarie,Italy,4.5,1
+500,la taverna del mastrogiurato,Italy,4.5,3
+501,Tamarillo Brillo,Italy,3.5,3
+502,Braciami,Italy,4.5,3
+503,Otto e Mezzo,Italy,3.5,3
+504,Occhio Alla Pecora,Italy,4.0,3
+505,Ristorante dell'Agriturismo Trivilini,Italy,4.5,3
+506,Osteria 101,Italy,3.5,1
+507,Casa Ristorante da Cinzia,Italy,4.5,1
+508,Pizzeria Il Castelluccio,Italy,4.5,3
+509,Malu',Italy,4.5,3
+510,Ristorante 3 Cantoni,Italy,3.5,3
+511,Desine e Cene,Italy,4.0,1
+512,Tullio,Italy,4.0,3
+513,Trattoria La Selva,Italy,4.0,3
+514,Nato Contadino Agriristoro,Italy,4.5,1
+515,Il Frantoio,Italy,3.5,3
+516,Villa Enli Agriristoro,Italy,4.5,3
+517,Fratelli Corso,Italy,4.0,3
+518,Il Mattarello di Ginepro,Italy,4.0,3
+519,Trattoria al Pozzo,Italy,4.0,3
+520,Il Tortello,Italy,3.5,3
+521,Ristorante La Porta,Italy,3.5,3
+522,Ristorante Carmen Bay,Italy,3.0,3
+523,Ristorante Da Maria Capalbio,Italy,4.0,3
+524,La Godenda,Italy,4.5,5
+525,Trattoria La Torre da Carla,Italy,4.0,3
+526,Trattoria Toscana,Italy,3.5,3
+527,Il Beverello,Italy,4.0,1
+528,Ristorante Casale Nuovo,Italy,4.0,3
+529,Bar Tavola Calda Il Girasole,Italy,4.0,1
+530,Caffe' Station,Italy,3.5,3
+531,Ristorante Bar La Capanna,Italy,3.5,1
+532,La Bracieria di Tiburzi,Italy,4.0,3
+533,La Cucina restaurant - Locanda Rossa,Italy,4.5,3
+534,La Dogana Capalbio,Italy,4.5,3
+535,Fontanile dei caprai,Italy,4.0,3
+536,Agriturismo il Portico Ristorante,Italy,4.0,3
+537,Gelateria GustoCapalbio,Italy,4.0,1
+538,La capanna del circolo S.Irma,Italy,3.0,3
+539,Ristorante Vivo,Italy,3.5,3
+540,La Porta Gialla,Italy,4.0,1
+541,Il Mestolone,Italy,4.0,3
+542,Ristorante Antica Pinciana,Italy,4.5,3
+543,Il Ginepro Coccolone,Italy,3.5,3
+544,Frigidaire,Italy,4.0,3
+545,Trattoria La Vallerana,Italy,4.0,3
+546,La Mimosa,Italy,4.0,3
+547,Bar Nucci Mirco,Italy,4.0,1
+548,La Torricella Restaurant,Italy,3.0,3
+549,Osteria gelateria Magenta,Italy,3.5,3
+550,Le Burle,Italy,4.0,3
+551,L'Officina Del Gusto,Italy,4.5,3
+552,Amorvino,Italy,3.5,3
+553,Ristorante IL FANTA,Italy,4.5,3
+554,Albergo Ristorante Bellavista,Italy,4.0,3
+555,Taverna Michy Rumy,Italy,4.5,3
+556,Mastica di Mauro Finetti,Italy,3.5,1
+557,La  Bicchieraia Maremmana,Italy,4.0,3
+558,Tenuta Casteani Restaurant,Italy,4.5,3
+559,Maremmana Restaurant,Italy,5.0,5
+560,Osteria Borgo Pesca,Italy,4.5,3
+561,PizzOsteria La Colonia,Italy,4.0,3
+562,Osteria Sant'Elena,Italy,4.5,3
+563,Las Tapas Bar,Italy,4.5,1
+564,Old Wild West,Italy,3.0,3
+565,Ristorante Il Concerto,Italy,4.0,3
+566,Ristorante Da Fernanda,Italy,4.0,3
+567,Osteria da Nea,Italy,3.5,3
+568,Pizzeria Gelateria Lago Verde,Italy,3.5,3
+569,Trattoria da Dino,Italy,4.0,3
+570,Birreria San Josè,Italy,3.5,3
+571,Colonial Inn - Burgers & steaks,Italy,3.5,3
+572,Ristorante Pizzeria La dolce vita,Italy,4.0,3
+573,Osteria da Bruno,Italy,2.5,3
+574,Alla Nuova Parigi,Italy,4.5,1
+575,Pizzeria Spaghetteria Marechiaro Sas,Italy,4.0,1
+576,Pasticceria Treviso,Italy,2.5,3
+577,Privilege Art,Italy,2.5,3
+578,Loft Ristopizza,Italy,3.5,1
+579,Pizzeria Ristorante Da Gerry E Sasa  Treviso,Italy,4.0,1
+580,Imbarcadero,Italy,3.5,3
+581,Sushiko,Italy,3.5,3
+582,Roadhouse Grill,Italy,3.5,3
+583,Pizzevia,Italy,4.0,1
+584,McDonald's,Italy,4.0,1
+585,Burger King,Italy,3.0,1
+586,Punto a Capo Restaurant,Italy,4.0,3
+587,Orto 219,Italy,4.5,3
+588,Osteria Maremmana Da Giovanna,Italy,4.0,3
+589,La Poventa,Italy,4.0,3
+590,Da Sandra,Italy,4.5,3
+591,Ristorante Da Guido,Italy,4.5,3
+592,OSTERIA GIRARROSTO L'ORCO,Italy,2.0,3
+593,Pizza Movie,Italy,4.0,1
+594,Trattoria Cupi,Italy,4.0,3
+595,Checco Il Bello,Italy,3.5,1
+596,Antica Trattoria Aurora,Italy,4.0,3
+597,Kaleidos Cafe,Italy,4.5,1
+598,La cantina di Cecco,Italy,4.0,1
+599,Il Poderone da Carla,Italy,4.0,1
+600,Ristorante da Ghigo,Italy,4.0,3
+601,Mamma Mia,Italy,4.0,3
+602,Da Ulisse,Italy,3.5,3
+603,Il Bosco Felice,Italy,4.5,1
+604,La Tenuta Agricola Dell’Uccellina,Italy,4.5,3
+605,Antichi Muri Pizzeria,Italy,4.0,1
+606,Ristorante Osteria Agostiniana da Pippo,Italy,4.0,3
+607,Il Padrino,Italy,4.0,3
+608,Il Cenacolo,Italy,3.5,3
+609,Villa Souvenir,Italy,4.0,3
+610,Trattoria Anni 60,Italy,4.5,3
+611,La Montagnola da Simona,Italy,4.0,3
+612,Ristorante 'O Dammuseddu,Italy,4.5,3
+613,Valle Lumia,Italy,4.0,3
+614,Bar Eden,Italy,4.5,1
+615,Abbazia,Italy,3.5,3
+616,Tagliere e Bicchieri,Italy,4.0,3
+617,Ristorante dell'Agriturismo Montaione,Italy,4.0,3
+618,Trattoria Sandrino,Italy,4.0,3
+619,San Lorenzo,Italy,3.5,3
+620,Il Campanile,Italy,3.5,1
+621,Panificio Temperani,Italy,4.5,1
+622,RitroVino 2,Italy,3.5,3
+623,Locanda Sotto i portici,Italy,4.5,3
+624,Ristorante Pizzeria Da Carla,Italy,4.0,3
+625,Osteria del Gambero Rosso,Italy,3.5,3
+626,La Taverna dei Miracoli da Mangiafuoco,Italy,4.0,3
+627,Ristorante Pizzeria Pucci,Italy,4.5,3
+628,Locanda Il Poderino,Italy,4.0,3
+629,Gelateria Igloo,Italy,4.5,1
+630,Tre Angeli,Italy,4.0,3
+631,Ristorante Pizzeria La Pieve,Italy,3.5,1
+632,Trattoria Pizzeria DA NERONE,Italy,4.0,3
+633,La Buca Gasthaus,Italy,4.5,1
+634,La Trattoria,Italy,4.0,1
+635,Capitan Piadina,Italy,4.5,1
+636,Le Macchie,Italy,4.0,1
+637,Cantina Nobile,Italy,4.5,1
+638,Zaira,Italy,4.0,1
+639,Osteria dei Ricci,Italy,4.0,3
+640,Pizzabar,Italy,4.0,1
+641,FRANCO Pane Caffe e Bistrot,Italy,4.0,3
+642,Villa Vezzani Restaurant,Italy,3.0,3
+643,Bar Pulter - Pizzeria Cioccolateria Gelateria,Italy,3.5,3
+644,TRATTORIA PIZZERIA DA GIULIO A PESCIA,Italy,4.0,3
+645,Pasticceria Giaccai,Italy,4.0,3
+646,Bar Trattoria Pizzeria Ricciano,Italy,4.0,1
+647,Agriturismo Montaione,Italy,4.5,1
+648,Ristorante Piazza Grande,Italy,3.5,3
+649,La Baracchina Di Bartolini Stefano,Italy,4.5,1
+650,Casa Del Popolo Di Spazzavento,Italy,3.5,1
+651,Mangiafuoco Self Pizza,Italy,4.0,1
+652,Pasticceria Toscana,Italy,4.5,1
+653,Gelateria La Cremeria,Italy,4.5,1
+654,Bar Caffe Gatto Nero,Italy,4.0,1
+655,Vintage,Italy,5.0,1
+656,Sementis,Italy,4.5,3
+657,Lavintage Bistrot,Italy,4.5,3
+658,Pizzeria La Corte,Italy,4.5,3
+659,L'Enoteca Marcucci,Italy,3.0,5
+660,Pizzeria trattoria da Da',Italy,4.5,3
+661,Bar Cervetti,Italy,3.5,3
+662,Gelateria Cuore di Gelato,Italy,4.5,1
+663,Ristorante Gabriele Salani,Italy,3.5,3
+664,Filippo - Ristorante a Pietrasanta,Italy,4.0,5
+665,Osteria enoteca La volpe e L'uva -,Italy,3.5,3
+666,Pizza 55,Italy,4.5,3
+667,Prosciutteria il Mandrillo,Italy,4.0,3
+668,Pasticceria Il Duomo,Italy,4.0,3
+669,Bagno 90 Minuto,Italy,3.0,3
+670,Ristorante Il Fico,Italy,4.0,3
+671,Pizzaria T'Aggio Vuluto Bene,Italy,4.0,1
+672,Bar Pizzeria Da Deme,Italy,3.5,1
+673,Locanda del Gusto,Italy,4.5,3
+674,Sushi Jazz Pietrasanta,Italy,3.5,3
+675,Circolo SOMS - Capriglia,Italy,4.0,1
+676,Giacomo Pietrasanta,Italy,4.0,5
+677,InCaRne ristorante macelleria,Italy,4.5,5
+678,Il CRO di Pietrasanta,Italy,4.0,1
+679,Piadinpizza,Italy,5.0,1
+680,Pinocchio a Pietrasanta,Italy,4.0,3
+681,Da Beppino,Italy,4.0,3
+682,il Posto,Italy,4.0,3
+683,Trattoria Il Marzocco,Italy,4.0,3
+684,Osteria la Tecchia,Italy,4.0,3
+685,Trattoria Peposo,Italy,4.0,3
+686,Ristoro il Giglio,Italy,4.0,3
+687,Baccatoio,Italy,4.0,3
+688,Antica Macelleria,Italy,4.0,3
+689,Osteria La Brocca,Italy,4.0,3
+690,Trattoria Pizzeria Betty,Italy,3.5,3
+691,Quarantuno,Italy,4.0,3
+692,Ristorante Enoteca L'Artista,Italy,4.0,3
+693,Trattoria Gatto Nero,Italy,3.5,3
+694,Fishing Lab Pietrasanta,Italy,4.0,3
+695,Lo Scivolo,Italy,4.0,3
+696,Il Lunedì dello Studio,Italy,4.0,3
+697,Ristorante la Vineria,Italy,3.5,3
+698,La Martinatica,Italy,4.5,3
+699,Locanda di Bruno,Italy,4.5,3
+700,Pizzeria Apogeo,Italy,4.0,3
+701,Champagneri,Italy,4.0,3
+702,Il Giardino Degli Elfi,Italy,3.5,3
+703,Gelateria di Mezzo,Italy,4.5,1
+704,Cantine Basile,Italy,4.5,3
+705,Ristorante Cinese Shanghai,Italy,4.0,1
+706,Osteria Pizzeria Romano,Italy,4.0,3
+707,Birreria San Marco Osteria Del Mastrobastardo,Italy,4.0,3
+708,Pizzeria Athena,Italy,4.0,1
+709,Ristorante Mamma Enza,Italy,4.0,1
+710,Ristorante La Buca,Italy,3.5,3
+711,Casa Del Popolo,Italy,3.5,1
+712,La Mariposa Gastronomia,Italy,5.0,1
+713,La Rocchetta,Italy,4.0,3
+714,Libero,Italy,4.0,3
+715,Alimentari Nevia,Italy,3.5,3
+716,Osteria Antichi Sapori,Italy,4.0,3
+717,Gelateria Peccati di Gola,Italy,3.5,1
+718,Bar Michelangelo,Italy,4.0,1
+719,Bar Ristoro da Norma,Italy,3.5,1
+720,Le Bar à Vins,Italy,4.0,3
+721,La Madia di Amelia,Italy,4.0,3
+722,Cro Arci Visp Solaio,Italy,3.5,1
+723,Gelateria La Dolce Vita,Italy,4.0,1
+724,Bisteccheria de Il Vaticano,Italy,4.5,3
+725,Trattoria dalla Filù,Italy,4.0,1
+726,Ristorante Bar Pizzeria Prato Verde,Italy,4.0,1
+727,La Maria' del Ghimenti di Nicola Ghimenti,Italy,3.5,1
+728,Bar Trattoria Pizzeria Il Ghiotto,Italy,4.0,3
+729,Barbarina's Pizza,Italy,4.0,1
+730,Nonna Lory Restaurant,Italy,4.0,3
+731,Bar Milano,Italy,4.0,3
+732,Yuri & Alice Bakery,Italy,4.5,3
+733,Ristorante Pizzeria Giovanni,Italy,4.5,3
+734,Bar Pietrasantese,Italy,3.0,1
+735,Osteria Barsanti54,Italy,4.0,3
+736,Ristorante Officina-Sapori Locali e Forme d'arte,Italy,4.5,3
+737,Ristorante Giapponese Ryuu,Italy,3.5,1
+738,Palomita Blanca,Italy,4.5,3
+739,Elia - Focacceria Bisteccheria,Italy,3.5,3
+740,Pizzeria al Bacio,Italy,4.0,1
+741,Trattoria Armanda,Italy,4.0,3
+742,Ristorante Dei Pini,Italy,4.5,3
+743,Mulino del Cibus,Italy,4.5,3
+744,Napoli & Pepe,Italy,4.0,3
+745,Cinquecento Bisteccheria Focacceria,Italy,3.5,3
+746,Agriturismo La Valle,Italy,3.5,3
+747,Ristorante Trattoria Vallecchia,Italy,3.5,3
+748,Lumaca Cafe & Restaurant,Italy,4.5,3
+749,Time Out,Italy,4.5,1
+750,Agriturismo Da Bace,Italy,3.5,3
+751,Pizza e Piu'di Teamira Fausto,Italy,5.0,1
+752,La Baita,Italy,3.0,3
+753,Pizza e Churrasco,Italy,4.5,1
+754,Backerei Nackler,Italy,4.0,1
+755,Romantik Hotel Post - Cavallino Bianco,Italy,4.5,5
+756,Ochsenhutte,Italy,5.0,3
+757,Obertierscher alm,Italy,3.0,1
+758,Pizzeria Mondschein,Italy,3.5,3
+759,Schillerhof,Italy,4.0,1
+760,Christomannos-Alm,Italy,4.0,3
+761,Marions Grillstube,Italy,4.5,3
+762,Restaurant Rosengarten,Italy,4.0,3
+763,Hennenstall,Italy,3.5,3
+764,Malga Stadlalm,Italy,3.5,3
+765,Heinzen Alm,Italy,3.5,3
+766,johannesstube - taste nature,Italy,4.5,5
+767,Castel Latemar,Italy,4.0,3
+768,Hagneralm,Italy,4.0,1
+769,Bar-Restaurant-Pizzeria ANTERMONT,Italy,4.5,3
+770,Frommeralm,Italy,4.0,3
+771,Ladritscher Hof,Italy,4.5,1
+772,Pizzeria Tyrol,Italy,4.0,3
+773,Albergo Jolanda,Italy,3.0,3
+774,Tscheiner Hütte,Italy,4.5,3
+775,Osteria Anna,Italy,4.5,3
+776,Locanda Al Piccolo Borgo,Italy,4.5,3
+777,Ristorante Bellaria,Italy,5.0,3
+778,Il Rifugio,Italy,4.0,3
+779,Insolito Bar,Italy,4.5,1
+780,Agriturismo Il Posto Delle Fragole,Italy,4.5,3
+781,Bar Trattoria Pizzeria Tecla,Italy,4.5,1
+782,Ristorante Cinese China Long,Italy,3.5,1
+783,Pasticceria Ruffoni,Italy,5.0,3
+784,Taverna di Arlecchino,Italy,4.0,3
+785,Pizzeria Fracassetti,Italy,4.5,1
+786,Trattoria Dell' Arlecchino,Italy,4.5,1
+787,Agriturismo Casa Eden,Italy,4.0,1
+788,Agriturismo Grabbia,Italy,4.5,3
+789,Il Glicine,Italy,4.0,1
+790,Agriturismo Stalle Alte,Italy,4.5,3
+791,Joe Pizza,Italy,3.5,1
+792,Le Giare,Italy,4.5,3
+793,Rifugio Vallaccia,Italy,4.5,3
+794,La Soldanella,Italy,4.0,3
+795,Bar Ristorante Malga Al Crocefisso,Italy,3.5,3
+796,Vecchio Mulino,Italy,4.0,3
+797,Dolomites Geyser Restaurant Apres Ski,Italy,5.0,3
+798,Bar Gelateria Leon d'Oro,Italy,3.0,1
+799,Malga Monzoni,Italy,3.5,3
+800,Ristorante Do' Vea,Italy,4.5,3
+801,Ristorante La Stua de Jan,Italy,4.5,3
+802,Baita Enrosadira,Italy,4.0,3
+803,El Filó,Italy,4.5,3
+804,Rifugio Passo delle Selle,Italy,4.0,3
+805,Da Michele,Italy,4.0,1
+806,Malga Aloch,Italy,4.0,3
+807,Rifugio Negritella,Italy,3.5,3
+808,Sport Hotel Majare,Italy,4.0,3
+809,Rifugio Baita alle Cascate,Italy,4.0,3
+810,Ristorante Pizzeria Vidor,Italy,4.0,3
+811,Ristorante Camping Vidor,Italy,4.0,3
+812,Ristorante Pizzeria Ramon,Italy,4.0,1
+813,Baita Ciampie,Italy,4.0,3
+814,Pizzeria Winkler,Italy,4.0,1
+815,Rifugio Passo San Nicolo,Italy,3.5,3
+816,Casa del formaggio / L Malgher,Italy,4.5,3
+817,Cafe Mirò,Italy,4.5,3
+818,Rifugio Stella Alpina,Italy,4.0,3
+819,TA Mongo,Italy,4.0,3
+820,Bar Jodler,Italy,4.5,3
+821,Rifugio Re Alberto,Italy,4.0,3
+822,Rifugio El Zedron,Italy,4.0,3
+823,Baita Cuz,Italy,4.0,3
+824,Pizzeria Bar Gelateria al Ponte,Italy,3.0,3
+825,Rifugio Alpino Buffaure,Italy,3.5,3
+826,Ristorante Aida,Italy,4.5,3
+827,Masc Aloch,Italy,4.5,3
+828,Malga Jumela,Italy,4.5,1
+829,Monnalisa Bistrot,Italy,3.5,3
+830,Cremeria Naretti,Italy,4.0,3
+831,Ristorante Taverna Verde,Italy,4.5,3
+832,Enoteca Cheese Bar Trinacria in T'Avola,Italy,5.0,1
+833,Domus,Italy,4.5,3
+834,Il Terrone,Italy,4.5,1
+835,Agriturismo Monte Criscione,Italy,4.5,3
+836,Dolci Tentazioni,Italy,4.5,3
+837,Caffè Cancemi,Italy,3.5,1
+838,La Locanda del Corso,Italy,4.0,3
+839,L'Esagono Ristorante Pizzeria,Italy,4.5,3
+840,Bruschetteria Genesis,Italy,3.0,3
+841,Ci:Vulia,Italy,3.5,3
+842,Taverna del Pescatore,Italy,3.5,3
+843,Mangiafico,Italy,4.0,3
+844,La Bettola - Il Panino dell'isola,Italy,4.0,3
+845,Sudd,Italy,4.5,3
+846,Il Marinaio Bistrot,Italy,4.5,3
+847,Factory Pizzeria Steak House 2.0,Italy,3.5,3
+848,Retrogusto,Italy,4.5,3
+849,Palomar Restaurant,Italy,4.5,3
+850,Summeat Steakhouse,Italy,4.5,3
+851,Joy Beach Lido,Italy,4.5,3
+852,Ristorante La Prua Avola,Italy,4.0,3
+853,Ristorante Rustico,Italy,3.5,3
+854,PortoMatto Ristorante Pizzeria,Italy,4.0,3
+855,Bar Girlando,Italy,4.0,1
+856,Vecchia Cantina Baroni,Italy,4.0,3
+857,Le Mangiatoie di Re Giordano,Italy,4.5,1
+858,Locanda Santa Marta Mallia,Italy,4.5,3
+859,La Corte di Bacco,Italy,3.5,3
+860,Masseria sul Mare,Italy,4.0,3
+861,Dolcemente Piccante,Italy,4.5,1
+862,Ca'...si mangia da Silvano,Italy,4.0,1
+863,Villa Romana,Italy,4.0,3
+864,Agriturismo Avola Antica,Italy,4.5,3
+865,La Taverna Del Pescatore,Italy,3.5,3
+866,Cafe dell'Orologio,Italy,3.5,1
+867,Deja vu Avola,Italy,4.5,3
+868,Boscarino,Italy,4.5,1
+869,Osteria i malavoglia,Italy,4.5,3
+870,Pippo Si Pappa Bar,Italy,5.0,1
+871,Caffe La Bruna,Italy,3.5,1
+872,La Gustosa Rosticceria Gastronomia,Italy,4.5,1
+873,Al Vecchio Mercato Empolo,Italy,4.5,1
+874,Alter Ego,Italy,4.0,3
+875,Veni a Tastari,Italy,4.5,1
+876,Pasticceria Tre bonta,Italy,4.5,1
+877,Cava Grande,Italy,3.0,1
+878,Blu Bar Pasticceria - Gelateria,Italy,4.0,1
+879,Marinaro,Italy,4.0,3
+880,Pizzeria Gastronomia 1Classe da Peppe Pepe & Massimo Scala,Italy,4.5,1
+881,Antico Casale degli Ulivi,Italy,3.5,3
+882,Ristorante Cavagrande ra zia gina,Italy,3.5,1
+883,La Scogliera,Italy,4.0,3
+884,Panificio Baccio,Italy,4.5,1
+885,Pizzeria Fuori Binario,Italy,4.5,1
+886,Mister Wok Restaurant,Italy,3.5,1
+887,Villa Esedra Ristorante Pizzeria da Saretto,Italy,4.0,3
+888,La Corte D'Aragona,Italy,3.5,3
+889,Giufà Bistrot,Italy,4.5,1
+890,Time,Italy,3.5,3
+891,Osciale Street Food,Italy,4.0,1
+892,Agorà Ristorante Pizzeria,Italy,4.0,3
+893,Camelot Bistrot,Italy,4.5,3
+894,Ristorante Braceria Pizzeria Ragno Verde,Italy,3.5,5
+895,Ristorante Stella Marina,Italy,4.0,3
+896,Degustabono,Italy,4.5,5
+897,900 Restaurant,Italy,3.5,3
+898,Trattoria a Casa,Italy,5.0,3
+899,Black&White Ristorante-Pizzeria,Italy,4.5,3
+900,Pasticceria Del Nonno Gelateria Caffetteria,Italy,5.0,3
+901,Nemo,Italy,3.5,1
+902,Essenza il ristorante di Enza Crucinio,Italy,5.0,5
+903,Pitty Ristorante Enoteca,Italy,3.5,3
+904,La Rosa dei Venti,Italy,4.0,3
+905,Il Chioschetto di Petty,Italy,4.0,3
+906,Tana del Blasco,Italy,3.0,3
+907,Hostaria Due Emme,Italy,4.0,3
+908,Pizzeria Bellacicco,Italy,4.5,1
+909,La Siesta,Italy,4.5,3
+910,Eraclea,Italy,4.0,3
+911,Ristorante-Pizzeria Lo Sgranocchio,Italy,3.5,3
+912,La Capannina,Italy,3.0,3
+913,L'Altro Impero - Trattoria Da Ciccio,Italy,4.5,1
+914,The King's food,Italy,4.0,1
+915,Invidia,Italy,4.5,1
+916,Gelateria Del Corso,Italy,4.0,1
+917,Ristorante Pizzeria Hermes,Italy,4.0,3
+918,Linea Dolce,Italy,3.5,3
+919,Sfizi del Palato,Italy,4.5,3
+920,Ristorante La Francese,Italy,4.0,3
+921,Gelateria Caffetteria Sottozero,Italy,4.0,1
+922,Corte Dei Basiliani,Italy,3.5,3
+923,GUSTI LUCANI,Italy,4.5,3
+924,Ristorante Red Bar,Italy,4.0,3
+925,Il Terzo Girone,Italy,3.0,3
+926,Attenti al luppolo,Italy,4.5,1
+927,I Calzoni DI Palmieri,Italy,4.5,1
+928,La Trattoria di Rovate,Italy,4.0,1
+929,Il Circolo di Carnago,Italy,3.5,3
+930,Ristorante Pizzeria Rugabella,Italy,4.0,3
+931,Birrificio Settimo,Italy,3.5,3
+932,L'800 MangiaBeveria,Italy,3.5,3
+933,Adler Stube,Italy,4.0,3
+934,Mexico City,Italy,4.0,3
+935,Pizzeria Ciro,Italy,4.0,1
+936,Perbacco Ristopub,Italy,4.0,3
+937,Disiu Officina della Pizza,Italy,5.0,1
+938,Caffe del Golfo,Italy,4.5,1
+939,Agriturismo Arabesque,Italy,3.0,3
+940,Sapori di mare,Italy,3.5,3
+941,La Perla,Italy,4.0,3
+942,da giovanni frutti di mare,Italy,4.0,3
+943,La Casona della Nonna,Italy,4.0,3
+944,Blue Sky Bar & Pub,Italy,4.5,1
+945,Rosa dei Venti,Italy,4.0,3
+946,La dolce vita,Italy,4.0,1
+947,Lo Squalo Pizzeria,Italy,4.0,3
+948,Why Not?,Italy,4.0,1
+949,Da Cla,Italy,4.5,5
+950,La Buona Forchetta,Italy,4.0,3
+951,La Capannuccia,Italy,3.0,1
+952,Il Mago del Gelato,Italy,3.0,1
+953,Nuovo Bar Paradise,Italy,4.0,1
+954,Chicken's Corner Di Tocco Giuseppe,Italy,4.5,1
+955,Onda Azzurra,Italy,4.5,1
+956,I Sapori Del Golfo,Italy,4.0,1
+957,Eo Winebar,Italy,4.5,3
+958,Cavallino Bianco,Italy,4.0,1
+959,Ristorante Pizzera Al Paguro,Italy,3.5,3
+960,La Piazzetta,Italy,4.0,1
+961,Pizza Nasce,Italy,4.0,1
+962,Central Bar Ruggirello,Italy,5.0,1
+963,Al Capriccio,Italy,3.5,3
+964,Leon d'Oro Ristorante,Italy,4.0,3
+965,Gennaro,Italy,4.0,1
+966,Agriturismo Tenute Pollara by Casa Mia,Italy,5.0,3
+967,La Tavernetta dei Briganti,Italy,4.5,1
+968,Il Vecchio Ristoro,Italy,4.5,3
+969,Valle Oscura,Italy,3.5,3
+970,Hotel il Maniero Ristorante,Italy,3.5,3
+971,Il Laghetto,Italy,3.0,1
+972,La Stazione Di Posta,Italy,3.5,3
+973,La Cantina Sociale,Italy,4.5,3
+974,"Serendipity, RistoRustico & Piscina",Italy,4.5,3
+975,Tenetra,Italy,4.5,3
+976,Maeve's Pub,Italy,4.5,1
+977,Ristorante Pizzeria Il Cactus,Italy,3.5,1
+978,Birrificio del Catria,Italy,4.5,3
+979,Ristorante Trippini,Italy,4.0,5
+980,Ristorante dell'Agriturismo La Vite e l'Ulivo,Italy,4.5,3
+981,La Penisola Restaurant,Italy,4.0,3
+982,Casa Vissani,Italy,5.0,5
+983,Il Corno Rosso,Italy,4.0,3
+984,Scacco Matto,Italy,4.0,3
+985,C'era una volta sapori e tradizioni,Italy,4.0,1
+986,Castello Del Poggio,Italy,5.0,3
+987,Hora Media,Italy,4.5,3
+988,Piermarini,Italy,4.5,5
+989,Ai 3 Archi,Italy,4.0,3
+990,Ristorante Il Frantoio Monterivoso,Italy,4.0,3
+991,Arcobaleno Resort,Italy,4.5,1
+992,Osteria del Trap,Italy,4.0,3
+993,Tre Pozzi,Italy,4.5,3
+994,Caffè Centrale,Italy,4.0,3
+995,Il Pasticciere,Italy,4.5,3
+996,Xalumeria 3 Portici,Italy,5.0,3
+997,La Fattoria di Parma SalAmeria,Italy,5.0,3
+998,Ristorante Mezzadri,Italy,4.5,3
+999,Locanda Nazionale,Italy,3.5,3
+1000,Trattoria Teatro,Italy,4.0,3
+1001,Ristorante Verdi,Italy,3.5,3
+1002,In Villa,Italy,4.0,3
+1003,Osteria di Casalbarbato,Italy,4.0,3
+1004,Ristorante Europa,Italy,4.5,3
+1005,Càrme,Italy,4.5,3
+1006,Trattoria da Ivo,Italy,3.5,1
+1007,Culatelleria,Italy,4.5,1
+1008,Bar Della Rocca Griglieria,Italy,4.0,3
+1009,Gastronomia A Tavola,Italy,4.0,3
+1010,Pasticceria Capetta,Italy,3.5,3
+1011,Scacciapensieri,Italy,4.0,1
+1012,La Fattoria del Boschetto,Italy,4.5,3
+1013,La Forchetta Alata,Italy,3.5,3
+1014,La Botola del Teatro Bistrò,Italy,5.0,3
+1015,"Io, Parmigianino",Italy,4.0,3
+1016,Gelateria La Gelatteria,Italy,4.5,1
+1017,Al Bambù Ristorante,Italy,4.0,3
+1018,Cibarium Salsamenteria,Italy,4.5,3
+1019,Sorgente Di Luna Agriturismo,Italy,4.5,3
+1020,Osteria del Borgo,Italy,4.5,3
+1021,Azienda Agrituristica Larinese di Vessecchia Anna maria,Italy,4.0,1
+1022,I Dolci Grappoli,Italy,3.5,3
+1023,L'Alternativo,Italy,3.5,3
+1024,Ristorante Da Gino,Italy,4.5,1
+1025,Ristorante Pizzeria Forum,Italy,4.0,1
+1026,Gusto Loft,Italy,5.0,3
+1027,"Pilato: Pinsa, Birra e Gelato",Italy,3.5,3
+1028,Trattoria degli ulivi   s.r.l.,Italy,3.5,3
+1029,Ristorante Pizzeria La Fraga,Italy,4.0,1
+1030,Pizzeria New Stefy,Italy,4.0,1
+1031,Il Matto,Italy,4.5,3
+1032,Piazza Degli Artisti,Italy,3.5,3
+1033,Birrificio La Campana D'Oro,Italy,5.0,1
+1034,La bruschetteria a metro,Italy,4.5,3
+1035,Sakura,Italy,4.0,1
+1036,IL TIRABUSCIO',Italy,4.5,3
+1037,La tavernetta di Michele e marica,Italy,4.0,3
+1038,Da Marino,Italy,3.5,1
+1039,Snack Bar Esso,Italy,4.5,1
+1040,Albergo Ristorante Brogi,Italy,3.5,1
+1041,Blu Bar Ristorantino,Italy,4.5,3
+1042,Birreria Porta De' Fabbri,Italy,4.0,1
+1043,Mishi Sushi,Italy,3.0,3
+1044,Pizzeria Pischedda Dino,Italy,3.5,1
+1045,Pizzeria Alaska Pub,Italy,4.0,3
+1046,Dolcidea,Italy,4.5,3
+1047,Babilonya Pub,Italy,5.0,3
+1048,Il Podesta,Italy,4.5,1
+1049,Ristorante dell'Agristurismo Briscak,Italy,4.0,1
+1050,Gruden-Žbogar,Italy,3.5,1
+1051,Enoteca Sgonico,Italy,4.0,5
+1052,Ristorante Dell'Agriturismo Colja Jozko,Italy,4.0,1
+1053,Trattoria Sociale di Gabrovizza,Italy,3.5,1
+1054,AdriaEnergy,Italy,4.0,1
+1055,Trattoria Gostilna Gustin,Italy,4.0,3
+1056,Agriturismo Skerlj,Italy,4.5,1
+1057,Azienda Agrituristica Ostrouska,Italy,4.0,1
+1058,Osmiza Milic Stanislao,Italy,3.5,1
+1059,ApiWine Agriturismo,Italy,4.0,3
+1060,Agriturismo Cascina Fortuna,Italy,4.5,3
+1061,Il Casale dell'Acquabona,Italy,4.0,3
+1062,I FRESCHI,Italy,3.5,3
+1063,Trattoria Il Veliero,Italy,3.5,3
+1064,Al Carrubo,Italy,4.0,3
+1065,Ristorante Il Pirata di Marettimo,Italy,3.5,3
+1066,La Scaletta,Italy,3.5,3
+1067,Onda Blu,Italy,3.5,1
+1068,Hiera,Italy,3.5,3
+1069,Caffe Tramontana,Italy,4.0,3
+1070,La Lampara,Italy,4.0,1
+1071,Bar Baia del Sole,Italy,4.0,1
+1072,La Cambusa,Italy,4.5,3
+1073,Bar Romano,Italy,4.0,3
+1074,Risto Bar Arcobaleno,Italy,4.0,3
+1075,Panetteria La Chicca,Italy,4.0,1
+1076,Ristorante dell'Albergo Paradiso,Italy,3.5,3
+1077,La Magia Dei Sapori,Italy,4.0,3
+1078,Al 76,Italy,4.5,3
+1079,L'Angolo del Pastore,Italy,4.0,3
+1080,Bisco,Italy,4.5,3
+1081,Al Filo D'Olio Trattoria,Italy,4.5,3
+1082,Trattoria il Vagabondo,Italy,4.0,3
+1083,Agriturismo Carleo,Italy,3.5,3
+1084,vesuvio 3,Italy,4.0,3
+1085,Babilonia,Italy,3.5,1
+1086,Caffe' Maracaibo,Italy,4.5,1
+1087,Lido Coiba,Italy,3.5,1
+1088,Tenuta Don Giovanni,Italy,4.5,3
+1089,Cacio e Pepe,Italy,4.5,3
+1090,La Chiazza,Italy,4.0,1
+1091,Corte Manzoni,Italy,4.5,1
+1092,Masseria limbitello,Italy,4.0,3
+1093,Osteria Mesciu Chiapparu,Italy,4.0,1
+1094,Dinastya,Italy,4.0,1
+1095,Crema & Cioccolato,Italy,3.5,3
+1096,Bar Portici Di Cardigliano Rosaria,Italy,4.5,1
+1097,Baronale Museum Cafè,Italy,5.0,3
+1098,Tesoretto Restaurant Steak House,Italy,4.0,3
+1099,La Piazza,Italy,4.0,3
+1100,Caffe Borghese,Italy,4.0,3
+1101,Agriturismo Salentum Terrae,Italy,4.5,3
+1102,American Bar,Italy,4.5,3
+1103,Oasi Ristorante Pizzeria,Italy,4.0,3
+1104,Ozium - Ristorante e Pizzeria,Italy,4.0,3
+1105,Takos,Italy,5.0,3
+1106,La Cisterna,Italy,4.5,1
+1107,Lievito Madre,Italy,4.0,3
+1108,Al Chiar di luna,Italy,4.5,5
+1109,Locanda del Pettirosso,Italy,4.5,3
+1110,Villa I Tramonti,Italy,4.5,3
+1111,Fattoria Eby,Italy,3.0,3
+1112,Da Venerina,Italy,4.0,3
+1113,Osteria Gatta e Gazzoia,Italy,4.0,3
+1114,Hotel Ristorante Panoramico,Italy,3.5,1
+1115,Garden Restaurant Colour Cafè Moutan,Italy,4.0,3
+1116,Casa Iozzìa,Italy,5.0,5
+1117,Villa San Michele Ricevimenti,Italy,4.5,5
+1118,Osteria Basilico,Italy,4.5,3
+1119,La Grotticella,Italy,4.0,1
+1120,Biccaba,Italy,4.0,3
+1121,Resort Nando al Pallone,Italy,4.0,5
+1122,Il Giardino,Italy,3.5,3
+1123,Ristorante Zafferano,Italy,4.5,3
+1124,La Lanterna,Italy,4.0,3
+1125,Agriturismo la Ferriera,Italy,3.5,1
+1126,Piccola Opera,Italy,3.5,3
+1127,"La Dolce Vita, gelateria artigianale",Italy,4.5,1
+1128,Pizzeria Pallone,Italy,3.5,1
+1129,La Fraschetta Della Mela Stregata,Italy,4.5,1
+1130,San Giorgio Restaurant,Italy,4.0,3
+1131,I Cilentani,Italy,4.5,1
+1132,Fratimo,Italy,4.5,3
+1133,La Nuova Fregata,Italy,4.0,3
+1134,Ristorante Pizzeria Cilento 2.0,Italy,4.0,3
+1135,Filippo's Pizza,Italy,3.5,1
+1136,Ristorante Lucifero,Italy,4.0,3
+1137,Ristorante Salerno,Italy,3.5,1
+1138,Tintobrace,Italy,4.0,3
+1139,Gelateria Crivella,Italy,3.0,3
+1140,Ristorante del Lido Lazzarella,Italy,3.5,3
+1141,a Cantina i Mustazzo,Italy,4.0,3
+1142,R'u' Ranco,Italy,3.5,3
+1143,Ristorante Pizzeria Noe a Mare,Italy,3.0,3
+1144,"Ristorante ""Da Attilio""",Italy,4.0,3
+1145,Taberna Do Mar,Italy,4.0,3
+1146,Pizza House,Italy,4.0,1
+1147,Il veliero,Italy,3.0,1
+1148,Carmigel,Italy,4.0,1
+1149,Bar Gelateria Turco,Italy,3.5,1
+1150,Pasticceria Casa del Dolce,Italy,4.5,1
+1151,Pizza up,Italy,4.5,1
+1152,Bottega dei golosi,Italy,4.5,3
+1153,Fabrika Music Video Pub Pizzeria,Italy,4.0,3
+1154,Masko Cafe,Italy,4.5,1
+1155,Risto - Video - Pub Scidron Di D'Amico Antonio,Italy,3.0,3
+1156,Fanny's Pub,Italy,4.0,3
+1157,Bar Pasticceria Mazzilli,Italy,4.5,1
+1158,La Specola Restaurant,Italy,4.0,3
+1159,Eexpress BAR DLF Pranzo,Italy,4.5,1
+1160,Holiday Osteria di Mare & Pizza,Italy,4.5,3
+1161,"Casa San Giacomo, Villanova",Italy,3.5,3
+1162,Xxl Music Bistrot,Italy,3.5,3
+1163,Pizzeria Ristorante Gli Archi,Italy,4.0,3
+1164,Caloma beach,Italy,4.0,1
+1165,La Rivola,Italy,5.0,3
+1166,La Preula,Italy,3.5,3
+1167,Il Cenacolo Della Tradizione,Italy,3.5,1
+1168,Ikarus,Italy,4.0,3
+1169,Baia Dell'Aragosta,Italy,3.5,3
+1170,Al Paradiso,Italy,3.5,3
+1171,Mr.Jameson,Italy,4.5,3
+1172,Lu Postu Vecchiu,Italy,4.0,3
+1173,I Capricci Del Corso,Italy,4.0,1
+1174,Albergo le Voilier,Italy,2.5,1
+1175,Bambu Cafe,Italy,4.5,1
+1176,Il BorghettoTrattoria,Italy,4.0,3
+1177,Pizzeria Salentina,Italy,4.5,1
+1178,Eden Salento,Italy,4.0,1
+1179,Lido Venere,Italy,4.0,3
+1180,Sante Le Muse,Italy,4.0,1
+1181,Mehari,Italy,3.0,3
+1182,Lido Mariro Restaurant,Italy,4.0,3
+1183,Masseria Ficazzana,Italy,4.0,3
+1184,Boteguita beach pub,Italy,4.0,1
+1185,Bossa Nova Restaurant,Italy,4.0,3
+1186,Le Cinque Vele,Italy,4.0,3
+1187,Titty Twister,Italy,4.0,1
+1188,Martinucci,Italy,4.0,3
+1189,Rosso Corallo,Italy,4.0,3
+1190,Pizzeria Lievito Reale,Italy,3.5,1
+1191,Le Quattro Fontane,Italy,4.0,3
+1192,Ristorante Pizzeria Appia Antica,Italy,3.5,3
+1193,Anema e core,Italy,4.0,1
+1194,Villa Alma Plena,Italy,4.5,5
+1195,Il Brillo Parlante,Italy,3.0,3
+1196,ANCHE NO!,Italy,4.0,3
+1197,MetroPizza,Italy,3.5,1
+1198,Soul Express Licapizza,Italy,4.0,1
+1199,Shanghai Oriente,Italy,3.0,3
+1200,Pizzeria Il Folletto,Italy,3.5,1
+1201,Fratelli La Bufala,Italy,3.5,3
+1202,Bar Pizzeria Bude,Italy,4.0,1
+1203,Pizzeria Le Balze,Italy,3.5,1
+1204,Ristorante dell'Agriturismo Osteria Le Balze,Italy,4.0,1
+1205,Mr. Jack's Bar,Italy,4.5,1
+1206,Dar Cama,Italy,3.5,1
+1207,San Ruffino Bistrot,Italy,4.5,3
+1208,Trattoria Il Boccondivino,Italy,4.0,3
+1209,Ristorante Castero Banca della Bistecca,Italy,3.5,3
+1210,Pablo Ristorante Pizzeria,Italy,4.0,3
+1211,Prima Gelateria di Procissi Stefania,Italy,4.5,1
+1212,Bacco Perbacco,Italy,4.5,3
+1213,La Bottega delle Specialita,Italy,4.5,1
+1214,I Burattinai,Italy,4.5,3
+1215,Bucine Basso,Italy,4.0,3
+1216,Osteria Dammi il 5,Italy,4.5,3
+1217,Al Chicken,Italy,4.0,3
+1218,Dr.ink,Italy,4.5,3
+1219,Mood76 Ristopub,Italy,4.0,3
+1220,L'Orto,Italy,2.5,1
+1221,KFC,Italy,3.0,1
+1222,Doppio Malto,Italy,3.5,3
+1223,Zio Brasil - Ristorante Churrascaria,Italy,4.5,3
+1224,Ristorante Quattro Forchette,Italy,4.5,3
+1225,Da Giovanni Pastificio Rana,Italy,3.5,1
+1226,Trattoria Ca Nostra,Italy,4.0,3
+1227,Sushiteca Zen,Italy,4.0,3
+1228,Bavaria Fest,Italy,4.5,3
+1229,Luna e Pomodoro,Italy,4.5,3
+1230,Wok Marco,Italy,3.5,1
+1231,Old Wild West,Italy,3.5,3
+1232,El Mundo,Italy,3.5,3
+1233,Agriturismo Alla Vigna,Italy,4.5,3
+1234,Al Toro,Italy,4.0,3
+1235,Metrozero Agristorante da Francesca,Italy,4.5,3
+1236,Bacaro Rosso,Italy,4.5,3
+1237,Agriturismo Nonna Rina,Italy,3.0,1
+1238,Mcdonald's Marcon Drive,Italy,3.0,1
+1239,PASTICCERIA ZAVAN,Italy,4.0,3
+1240,Bar Ristorante Europa,Italy,4.0,1
+1241,Dall' Ingordo,Italy,4.0,1
+1242,Piaceri Carnali,Italy,4.5,3
+1243,Ciak 54,Italy,2.5,1
+1244,Light - Bar & Piccola Cucina,Italy,4.5,3
+1245,Tiramisu,Italy,4.5,3
+1246,Valecenter,Italy,2.5,1
+1247,Pasticceria Linda,Italy,4.0,3
+1248,La Casetta - Restaurant,Italy,5.0,3
+1249,Arcudaci Agriturismo,Italy,4.0,3
+1250,MariAndrea Home Restaurant,Italy,4.0,3
+1251,Trattoria Peppe e Nino,Italy,4.0,3
+1252,Bar macao,Italy,4.0,1
+1253,Pizzeria Parco dei Pini,Italy,4.5,3
+1254,Osteria 5 Colli,Italy,4.5,3
+1255,Dea Flora,Italy,4.5,5
+1256,Agriturismo La Campana,Italy,4.0,3
+1257,Ristorante Il Braciere,Italy,4.5,3
+1258,Manu's Pizza,Italy,4.5,1
+1259,Pasticceria Dorina,Italy,4.5,1
+1260,La Gare,Italy,4.0,1
+1261,La Casa delle Api Osteria,Italy,4.5,3
+1262,Enoteca Non Solo Bollicine,Italy,3.5,3
+1263,L' Ago nel Pagliaio,Italy,4.5,3
+1264,Enoné RistoVineria Pizzeria,Italy,3.5,3
+1265,Vernacolo,Italy,4.0,3
+1266,Pizzeria Sonia,Italy,4.5,1
+1267,Corte del Sole,Italy,4.5,3
+1268,Antica Cucina Rurale Associazione Culturale 'SE Magna',Italy,4.5,1
+1269,Bar Sport Gelateria,Italy,5.0,1
+1270,Hotel Ristorante Tre Lanterne,Italy,4.0,3
+1271,Peperino Pizzeria Ristorante,Italy,4.0,1
+1272,Lupus in Tavola,Italy,4.0,1
+1273,Il Sole,Italy,3.5,1
+1274,Laga Nord,Italy,4.0,1
+1275,Pizzeria Vecchia Salaria,Italy,4.0,1
+1276,Ristorante IL Bucaneve,Italy,4.5,1
+1277,La Cantina di Nenè,Italy,4.5,3
+1278,Gelateria Kokonuts,Italy,3.5,3
+1279,Gran Caffe Belli RISTORANTE,Italy,4.5,3
+1280,Ristorante Emilio,Italy,4.0,1
+1281,La Pettegola,Italy,4.5,3
+1282,"Alba Pizzeria, Bar&Food",Italy,5.0,3
+1283,Locanda del Palio,Italy,4.0,3
+1284,Il Rist'Oro,Italy,4.5,1
+1285,Il Frantoio l'Osteria,Italy,4.5,3
+1286,Flow Pizza & Birra,Italy,5.0,1
+1287,La Fonte di Mose,Italy,4.0,3
+1288,Alla Stube,Italy,4.0,3
+1289,Suavia Picena,Italy,3.5,3
+1290,Agriturismo Serena,Italy,3.0,3
+1291,Azienda Agricola Bagalini,Italy,3.5,3
+1292,Pizzeria Karibu,Italy,4.5,3
+1293,Pizzeria Brancadoro,Italy,4.0,1
+1294,Bella Napoli,Italy,4.0,1
+1295,Trattoria Fisherman,Italy,3.5,1
+1296,Laghi Santarelli,Italy,4.0,1
+1297,Ristorante La Corte,Italy,4.5,3
+1298,Bar Pizzeria Gelateria Enoteca Primavera,Italy,4.5,1
+1299,Friends Pub,Italy,4.0,3
+1300,La Fermanella,Italy,3.5,1
+1301,Pasticceria Mon Plaisir,Italy,4.0,3
+1302,De.Lu'.,Italy,4.0,3
+1303,Fiore Di Campo,Italy,4.5,3
+1304,Soul Kitchen,Italy,4.0,3
+1305,Locanda San Rocco,Italy,4.0,3
+1306,La Pizzicosa,Italy,3.5,1
+1307,La Gorbe e L'Ua,Italy,4.0,3
+1308,Gran Caffe' 600,Italy,2.0,3
+1309,Trattoria degli Artisti,Italy,4.5,3
+1310,Bistrot83,Italy,4.0,1
+1311,Squisito Cafè,Italy,4.5,1
+1312,Pizza Time,Italy,4.0,1
+1313,Capolinea Cafe,Italy,4.5,3
+1314,L'Open restaurant,Italy,2.0,3
+1315,L'enoteca bar a vino,Italy,4.5,3
+1316,Gelateria Caffetteria Antonini,Italy,4.0,1
+1317,Poldo e Livia,Italy,4.0,3
+1318,La Cuccagna,Italy,3.0,1
+1319,IL PRIORE ristorante pizzeria,Italy,4.0,3
+1320,Pane&caffe',Italy,4.5,1
+1321,Agriturismo Il Vecchio Pioppo,Italy,3.5,1
+1322,Ristorante Rio Ete,Italy,3.5,1
+1323,Pizzeria La Svolta,Italy,4.5,1
+1324,Un Punto Macrobiotico,Italy,3.5,1
+1325,Tira e Molla Chalet Pizzeria,Italy,4.0,1
+1326,Ristorante Villa Ester,Italy,4.0,3
+1327,Il Piccolo Bosco,Italy,4.5,3
+1328,Osteria Orsolina,Italy,4.5,1
+1329,La Chimera,Italy,3.5,1
+1330,Villa Lattanzi Restaurant,Italy,3.5,5
+1331,Caffe Lady,Italy,3.5,3
+1332,Tenuta Sant Elisabetta,Italy,4.5,3
+1333,Stella Artois 2000,Italy,3.5,1
+1334,Chalet Girfalco,Italy,3.0,1
+1335,RISTORANTE ASTORIA,Italy,4.0,3
+1336,Chalet Sombrero,Italy,4.5,1
+1337,Gelateria Veneta,Italy,4.0,3
+1338,Azienda Agricola Frantoio e Campeggio Abbruzzetti,Italy,4.0,1
+1339,180 Gradi,Italy,4.0,3
+1340,Il Chiodo Fisso,Italy,4.5,3
+1341,Pub Carillon1981,Italy,4.0,3
+1342,L'Oasi di Pierino,Italy,3.5,3
+1343,Il Coccaro,Italy,4.5,1
+1344,Hotel Ristorante Villa Montotto,Italy,4.5,3
+1345,Azienda Agricola Grifi Sergio,Italy,3.5,1
+1346,La Casa sul Colle,Italy,3.5,3
+1347,Pizzeria Spaghetteria Planet,Italy,4.5,1
+1348,La Cucina di Zia Titta,Italy,4.0,1
+1349,Ristorante dell'Agriturismo Crosta,Italy,4.0,1
+1350,Amici del Colle,Italy,4.0,5
+1351,Taverna del Vin Vino,Italy,4.5,3
+1352,Antico Colle,Italy,4.0,3
+1353,Trattoria Il Mercato,Italy,4.5,1
+1354,Mago Bago,Italy,2.5,1
+1355,Ristorante Bellavista,Italy,4.0,1
+1356,Trattoria Da Valentino di Stiavelli Rosalba,Italy,4.5,1
+1357,Gelateria Ultimokilometro,Italy,5.0,1
+1358,Pizzeria Sale e Pepe,Italy,3.5,1
+1359,Bar Sport,Italy,4.0,1
+1360,Benvenuti al Sud,Italy,5.0,1
+1361,Ristorante Cani Cani,Italy,5.0,3
+1362,Ristorante La Pineta,Italy,3.0,3
+1363,Casa Del Dolce,Italy,4.0,1
+1364,Borgo San Francesco,Italy,4.5,3
+1365,Lido Capo Calavà,Italy,3.5,3
+1366,Roccabianca,Italy,3.5,3
+1367,La Lampara,Italy,4.0,3
+1368,Agriturismo Santa Margherita,Italy,4.5,3
+1369,Bar Trattoria Pizzeria il Canape,Italy,4.5,3
+1370,La Piazzetta,Italy,4.0,3
+1371,Gelateria Bar Centrale,Italy,4.0,1
+1372,Bar Marino,Italy,4.5,1
+1373,Alta Marea,Italy,4.5,3
+1374,Divino Lounge Bar,Italy,4.0,3
+1375,Pizzeria Ristorante Rendez Vous,Italy,3.0,3
+1376,La Vecchia Posta,Italy,4.0,3
+1377,Ritrovo Roma di Miragliotta Rosanna,Italy,4.0,1
+1378,Gelateria Al Muretto,Italy,4.5,1
+1379,Queequeg Cafe',Italy,4.5,1
+1380,Loft Cafe,Italy,4.0,3
+1381,Saporita Forneria,Italy,4.0,1
+1382,Odeon Bar,Italy,4.5,1
+1383,Ristorante Argentino Mi Buenos Aires,Italy,4.0,3
+1384,Ristorante Al Jey,Italy,4.0,3
+1385,Al Bucaniere,Italy,3.0,3
+1386,Giuse Gallery,Italy,4.0,3
+1387,La Pescheria,Italy,4.0,3
+1388,Belgiardino,Italy,4.5,1
+1389,Pizzeria SoleLuna,Italy,5.0,1
+1390,Bar Atlantic,Italy,3.5,1
+1391,Mar Rosso,Italy,3.5,1
+1392,Pizzeria Bar Aurora,Italy,4.0,1
+1393,Ristorante Pizzeria da Pietro,Italy,4.0,3
+1394,Trattoria il Quadretto,Italy,3.5,1
+1395,Ristorante Like,Italy,4.0,3
+1396,Gin Fusion Experience - Sushi Restaurant,Italy,4.5,3
+1397,Sushi Be,Italy,4.5,5
+1398,Contrada la Ghiara,Italy,3.5,3
+1399,Osteria del Bagatto,Italy,4.5,3
+1400,Le Tre Vele,Italy,3.5,3
+1401,Creperie Ble Noir,Italy,4.0,3
+1402,Ristorante la Lira,Italy,4.5,5
+1403,Il Ciliegio,Italy,3.5,1
+1404,Angolo Nascosto,Italy,3.5,3
+1405,Sushi Yamasaki,Italy,3.5,1
+1406,Sartoria - Piatti Su Misura,Italy,5.0,3
+1407,Rossoarancio,Italy,3.0,1
+1408,Terroirs,Italy,3.5,3
+1409,Barone Pizzeria Gourmet,Italy,4.0,3
+1410,Caffe Ristoro Stazione Cucco e la Civetta,Italy,4.0,3
+1411,Lo Scricciolo,Italy,4.0,3
+1412,Osteria I Veraci,Italy,4.0,3
+1413,Ristorante Baracca,Italy,3.5,3
+1414,Ristorante Pizzeria Apicella,Italy,3.0,1
+1415,Ristorante Ikura,Italy,4.0,3
+1416,Matteo Caffe e Cucina,Italy,4.0,3
+1417,Pizzeria Giordano,Italy,3.5,3
+1418,Azienda Agrituristica Ca' d'Andrei,Italy,4.0,3
+1419,Sushic,Italy,4.0,3
+1420,La Farcia Biella,Italy,4.0,1
+1421,Fratelli La Bufala,Italy,3.5,3
+1422,Gao Fusion Restaurant,Italy,4.0,3
+1423,Al Venti Ristorante,Italy,4.0,3
+1424,Al Buon Ricordo,Italy,4.0,3
+1425,La tavernetta,Italy,4.0,3
+1426,Ristorante Pizzeria Grilli,Italy,4.0,3
+1427,Ai Tre Arc,Italy,4.0,3
+1428,Trattoria Grandinetti,Italy,3.5,1
+1429,La Pace,Italy,3.5,3
+1430,Menabrea,Italy,3.5,3
+1431,Due Cuori,Italy,4.0,3
+1432,Pasticceria Ferrua,Italy,4.0,3
+1433,La Lucciola,Italy,3.5,3
+1434,Tigella Biella,Italy,4.0,3
+1435,Prosciutteria San Daniele,Italy,4.0,3
+1436,Saraceno da Giovanni,Italy,3.5,3
+1437,La Piramide Di Francese Carlo & C. S.a.s.,Italy,3.5,3
+1438,Pizzeria Ristorante S. Giacomo,Italy,3.0,1
+1439,Ristorante Palazzo Boglietti,Italy,4.5,3
+1440,ristorante pizzeria Capri,Italy,4.0,3
+1441,Afterglow Pub,Italy,4.5,1
+1442,C-House Cafe',Italy,4.0,1
+1443,Il Tiglio,Italy,4.5,1
+1444,Glamour,Italy,3.0,3
+1445,L'Osteria,Italy,4.0,3
+1446,Trattoria il Cicciocchio,Italy,3.5,1
+1447,Trattoria Roma,Italy,4.0,1
+1448,Positano,Italy,3.5,3
+1449,Trattoria Alla cisterna,Italy,4.0,1
+1450,L'Erbavoglio,Italy,4.0,1
+1451,Lorien Pub,Italy,4.0,3
+1452,Gelateria Prestige,Italy,4.5,1
+1453,Pizza Si',Italy,4.0,1
+1454,Ristorane michelangelo luca montersino,Italy,4.0,3
+1455,Ristorante Pizzeria Joker,Italy,3.5,3
+1456,Old Wild West,Italy,3.5,3
+1457,Ristorante Pizzaeria La Lanterna,Italy,3.5,3
+1458,Canterino,Italy,4.0,3
+1459,Hotel Ristorante Bar Bocchetto Sessera,Italy,4.0,3
+1460,Solletico Cafe,Italy,3.5,1
+1461,Three Trees Coffee,Italy,4.0,3
+1462,Pasticceria Cioccolateria Coggiola,Italy,4.5,3
+1463,Il Duca Bianco,Italy,3.5,1
+1464,Sakura,Italy,3.5,3
+1465,Lo Chalet,Italy,4.0,3
+1466,La padella,Italy,3.5,3
+1467,Vanilla cafe,Italy,3.5,1
+1468,Bar Ristorante Roma Di Mautino Orazio,Italy,3.5,1
+1469,Mov-Ing,Italy,4.0,3
+1470,Caffè Bistrot,Italy,4.5,3
+1471,Al Maneggio,Italy,3.5,3
+1472,L'arrugginita,Italy,4.0,3
+1473,jeantet giovanni e c. snc,Italy,2.5,3
+1474,Pizzeria Pantagruel Di Deiana Fausto,Italy,4.5,1
+1475,Ristorante Pizzeria La Perla,Italy,4.0,3
+1476,Pizza Max,Italy,2.5,1
+1477,Caffe Bruticella,Italy,3.5,1
+1478,Old West Biella,Italy,4.0,1
+1479,Walhalla del Fra,Italy,4.5,1
+1480,Dicia7,Italy,3.5,1
+1481,Caffe della Provincia,Italy,3.5,1
+1482,Trattoria Quadrifoglio,Italy,3.5,1
+1483,La Torteria,Italy,4.0,3
+1484,Coffee Shop 1882,Italy,4.5,1
+1485,Il Caffettino,Italy,4.0,3
+1486,Caffe Vergnano 1882 Biella,Italy,3.5,3
+1487,Cafeteria LuogoComune,Italy,3.5,3
+1488,La Piadineria S.R.L,Italy,3.5,1
+1489,Lido di Borriana,Italy,3.5,1
+1490,Binario Zero,Italy,4.0,3
+1491,Vida Loca,Italy,3.5,1
+1492,Bye Bye,Italy,4.0,1
+1493,Pizzeria Orso Felice,Italy,4.0,1
+1494,Circolo del Piazzo,Italy,3.5,1
+1495,Trattoria da Rosalina,Italy,4.0,1
+1496,Cremeria Del Piazzo,Italy,3.5,3
+1497,Gelateria Alice,Italy,4.5,1
+1498,Ristorante Pizzeria la Baita,Italy,3.5,3
+1499,Caffè del Teatro Biella,Italy,3.0,3
+1500,Ristorante Regallo,Italy,4.5,5
+1501,pizzeria le piramide,Italy,4.0,3
+1502,Da Giovanni Rana,Italy,3.0,1
+1503,Birreria Biellese,Italy,3.5,3
+1504,Ristodrogheria Doppio Zero,Italy,4.0,3
+1505,Profumo di caffe,Italy,4.5,1
+1506,La locanda,Italy,4.0,3
+1507,MAG-Mastri artigiani del gelato Biella,Italy,4.0,3
+1508,Senza Tempo,Italy,4.5,3
+1509,Pinco Pallino,Italy,4.5,1
+1510,Biella Gelato & Caffe,Italy,4.0,3
+1511,Dal Dino Pranzo Cena Pizza,Italy,4.0,1
+1512,McDonald's,Italy,2.0,1
+1513,Caffetteria Brasiliana,Italy,1.5,3
+1514,13900 Cocktail Bar,Italy,4.5,3
+1515,Mariposa Caffe,Italy,4.5,3
+1516,Pizzeria Da Anto,Italy,4.0,1
+1517,Acqua e Farina,Italy,4.0,1
+1518,La Burgheria,Italy,4.0,3
+1519,Interno 21 Caffetteria,Italy,4.5,1
+1520,Ristorante Mompolino,Italy,4.0,1
+1521,La Doga,Italy,4.0,3
+1522,Trattoria Saviglia,Italy,4.0,3
+1523,Ristorante dell'Agriturismo Il Gelsomino,Italy,4.0,3
+1524,La Vecchia Fattoria,Italy,4.5,3
+1525,Ristorante Taverna Roberteschi,Italy,4.0,3
+1526,Campo Antico,Italy,4.5,3
+1527,Agriturismo Casale del Noce,Italy,4.0,3
+1528,Carpe Diem,Italy,2.5,1
+1529,Agriturismo Calderari,Italy,4.0,3
+1530,Ristorante Tevere,Italy,4.0,1
+1531,La Vecchia Fornace,Italy,4.0,1
+1532,Hotel Ristorante Lazio,Italy,4.0,1
+1533,Hotel Millenium  Ristorante Pizzeria Bruno,Italy,4.0,1
+1534,Ristorante Pizzeria Eureka!,Italy,4.5,3
+1535,Hotel Aquila Restaurant,Italy,3.5,1
+1536,Ristorante La Locanda della Chiocciola,Italy,4.5,3
+1537,Mixer Caffe Srl,Italy,3.5,1
+1538,Ristorante La Grotticella,Italy,4.0,3
+1539,Il Caminetto,Italy,4.5,3
+1540,Pizza E Vai,Italy,4.0,1
+1541,Il Borgo,Italy,4.5,3
+1542,Locanda del Panigaccio,Italy,4.0,3
+1543,Trattoria Vecchio Cipresso,Italy,4.5,3
+1544,Caos Pub,Italy,3.5,1
+1545,La Tettoia,Italy,4.0,3
+1546,Ristorante Pizzeria Il Sole,Italy,4.0,1
+1547,B&B La Campagnetta,Italy,4.5,3
+1548,Ristorante dello Stabilimento Balneare Chalet Moia,Italy,4.0,1
+1549,Sandlstubele Ristorante Pizzeria,Italy,4.0,1
+1550,Figl,Italy,4.0,3
+1551,Restaurant Apollonia,Italy,4.5,3
+1552,Restaurant Pircher,Italy,4.0,3
+1553,Ristorante Ippopotamus,Italy,3.5,3
+1554,Restaurant S’Passler,Italy,4.5,3
+1555,Jager Gasthof & Restaurant,Italy,4.5,3
+1556,Nalserbacherkeller,Italy,4.0,3
+1557,Stachlburg Keller,Italy,4.0,3
+1558,Bittnerhof,Italy,4.5,1
+1559,Antica Locanda del Falco,Italy,4.5,3
+1560,Ristorante La Rocchetta,Italy,4.5,3
+1561,La Famiglia,Italy,4.0,1
+1562,La Locanda,Italy,3.5,3
+1563,Agriturismo Le Rondini,Italy,4.0,1
+1564,I Laghi Di Tuna,Italy,3.5,3
+1565,Al Contesse,Italy,4.5,3
+1566,Trattoria la Famiglia,Italy,4.0,3
+1567,Agriturismo Paderna,Italy,4.5,3
+1568,Rifugio Sonino al Coldai,Italy,3.5,3
+1569,Rifugio Ristorante Staulanza,Italy,3.5,3
+1570,Ristoro Baita Civetta Al Casot,Italy,3.5,3
+1571,Enoteca Coldai,Italy,4.5,3
+1572,Al Lumin,Italy,4.0,3
+1573,Ristoro da Bepi,Italy,4.0,1
+1574,Rifugio Monte Pelmo,Italy,3.5,3
+1575,Deny,Italy,4.0,3
+1576,Rifugio Su'n Paradis,Italy,4.0,3
+1577,Rifugio San Sebastiano,Italy,4.5,3
+1578,Ristorante Pizzeria Palma,Italy,4.0,3
+1579,Refugium Pekatorum,Italy,4.0,1
+1580,Stube del Patriarca,Italy,4.0,3
+1581,Montagna La pizzeria (ex Pizzeria Da Christian),Italy,4.0,1
+1582,Pizzeria Ristorante Al Ciclamino Scarzanella Romano,Italy,4.0,3
+1583,Al Soler,Italy,4.5,3
+1584,Agriturismo Malga Staulanza,Italy,4.5,1
+1585,Ristorante Da Ida,Italy,4.5,3
+1586,I Tesori del Parco,Italy,4.5,1
+1587,Hotel Ristorante Fortezza,Italy,3.5,1
+1588,Ristorante Zunica 1880,Italy,4.5,5
+1589,Ristorante Colle Santamaria,Italy,4.5,3
+1590,Al Feudo,Italy,3.5,1
+1591,Ristorante Pizzeria Santa Croce,Italy,4.5,3
+1592,Hotel Ristorante Ermocolle,Italy,4.5,3
+1593,Caiola,Italy,3.5,3
+1594,Ristorante Pizzeria Le Rocche,Italy,4.0,3
+1595,Le Rocche Ristorante Pizzeria,Italy,4.5,1
+1596,Ristorante Da Enrico,Italy,4.0,3
+1597,La Vecchia Scuola,Italy,4.0,1
+1598,Pizzeria Santa Reparata,Italy,5.0,3
+1599,Pasticceria Mimosa,Italy,4.5,3
+1600,La Locanda Del Poeta,Italy,3.5,5
+1601,Trattoria Da Brancoun,Italy,4.0,3
+1602,Ristorante Pizzeria 2020,Italy,3.5,3
+1603,Osteria Vinho Verde,Italy,4.5,3
+1604,Trattoria Da Pizoun,Italy,4.5,3
+1605,Gelateria Latteria Santa Chiara,Italy,4.5,3
+1606,Cal Burdeli,Italy,3.5,1
+1607,Cantiere Donna Cucina Caffe,Italy,4.0,1
+1608,Piadineria II Pozzo,Italy,4.0,1
+1609,Chiosco La Chicca,Italy,4.0,1
+1610,Il Castello Ristorante Pizzeria Bar,Italy,3.5,1
+1611,Ristorante Hotel Sonno D'autore,Italy,3.5,3
+1612,Ristorante Pizzeria Napule,Italy,4.0,3
+1613,Ristorante Albergo Belvedere,Italy,5.0,3
+1614,Ristoro del Pellegrino,Italy,4.0,3
+1615,La Baracca,Italy,3.5,3
+1616,Locanda delle Tre Chiavi,Italy,4.0,3
+1617,Casa del Vino della Vallagarina,Italy,4.5,3
+1618,Agriturismo Il Gallo,Italy,4.5,3
+1619,Vineria De Tarczal,Italy,4.5,3
+1620,Al Parco,Italy,4.0,3
+1621,Rifugio Belvedere Amici della Bordala,Italy,4.0,1
+1622,To New York Restaurant & Cocktails,Italy,4.5,3
+1623,Salvia Ranch,Italy,4.5,3
+1624,Ristorante Pizzeria Il Boschetto,Italy,4.5,3
+1625,Agriturismo Venetucci,Italy,4.0,1
+1626,enoteca la grotta,Italy,5.0,3
+1627,L'Antico Gusto,Italy,4.5,3
+1628,Ristorante Pizzeria Vecchi Sapori,Italy,4.5,1
+1629,Villa Serita,Italy,4.5,5
+1630,Ristorante Tre Querce,Italy,4.5,3
+1631,Hotel & Resort Tanca,Italy,4.0,3
+1632,Mirage Bistrot del Mare,Italy,4.0,3
+1633,S'Ormina Ristorante,Italy,4.5,3
+1634,Ristorante Pizzeria Rejna,Italy,4.0,3
+1635,S'Olia,Italy,4.0,3
+1636,Bar Ristorante Pizzeria Via Mare,Italy,4.0,3
+1637,Cala Surya,Italy,3.5,1
+1638,Sa Scogliera,Italy,3.5,3
+1639,Pescheria Gastronomia La Stella D'ogliastra,Italy,4.0,1
+1640,Ristorante Genna e Masoni,Italy,4.5,3
+1641,Rosa Dei Venti,Italy,4.5,1
+1642,"Bar, Pizzeria, Kebaberia  Da Fresi",Italy,4.5,1
+1643,Bar Pizzeria Da Lorenzo,Italy,4.0,1
+1644,La Pineta Mare,Italy,3.0,1
+1645,Da Depau,Italy,4.0,3
+1646,Bar Pizzeria Baraonda,Italy,4.5,1
+1647,Ristorante al Monastero,Italy,4.0,3
+1648,Villa Aurora,Italy,4.0,3
+1649,Coccoi Bar & Pub,Italy,4.5,3
+1650,Villa Maccario,Italy,4.5,3
+1651,Hosteria del Tritone,Italy,3.5,3
+1652,Osteria La Juta,Italy,4.0,3
+1653,Ristorante La Castagna,Italy,4.0,3
+1654,Ristorante Da Felice,Italy,3.0,5
+1655,Ristorante Il Casone,Italy,3.0,3
+1656,Osteria del Gallo e della Volpe,Italy,4.5,3
+1657,Le Vieux Lyskamm,Italy,4.5,3
+1658,Ristorante Kondor,Italy,4.0,3
+1659,Le Petit Monde,Italy,4.0,1
+1660,Agriturismo La Tchavana di Metsan,Italy,4.0,3
+1661,Ristorante Bar La Mandria,Italy,4.5,3
+1662,Fior di Roccia,Italy,4.5,1
+1663,Petit Coq,Italy,4.0,3
+1664,La Grange,Italy,4.0,3
+1665,Rifugio Guide Di Frachey,Italy,4.5,3
+1666,Lo Retsignon,Italy,4.5,3
+1667,Le Cadran Solaire,Italy,4.5,3
+1668,La Maison du Braconnier,Italy,4.0,3
+1669,L'Aroula,Italy,4.5,3
+1670,La Meridiana,Italy,4.0,3
+1671,Ristorante Rifugio Belvedere,Italy,4.0,3
+1672,Bar Ristorante Tavola Calda du Soleil,Italy,4.5,1
+1673,Ristoro Campo Base,Italy,4.5,3
+1674,Ristorante N'altraroba,Italy,4.5,3
+1675,Il Calandrino,Italy,4.0,5
+1676,Azienda Agrituristica La Rosa,Italy,4.5,1
+1677,Trattoria Da Ottavo,Italy,4.0,1
+1678,Osteria al Parco,Italy,3.5,3
+1679,Le Torri - Pizzeria Cucina,Italy,4.0,3
+1680,Solemaya,Italy,4.0,3
+1681,Self Service L'Intervallo,Italy,4.5,1
+1682,Blues Brothers Cafe,Italy,3.5,3
+1683,In.Gredienti SRL,Italy,4.0,5
+1684,zenzero cafè,Italy,3.5,1
+1685,Vineria Dai Luciferi,Italy,4.0,3
+1686,Gola & Vanita,Italy,4.5,3
+1687,L' Officina Enoteca & Cucina,Italy,4.0,3
+1688,Le Calandre,Italy,5.0,5
+1689,Villa Torre Antica,Italy,3.5,3
+1690,RISTORANTE MAGIC,Italy,4.5,5
+1691,Domus Otium,Italy,4.5,3
+1692,La Locanda degli Apolidi,Italy,4.0,3
+1693,Il Ritrovo,Italy,4.5,3
+1694,Locanda San Cipriano,Italy,4.5,3
+1695,La Casetta,Italy,4.5,3
+1696,Borgo Lucano,Italy,4.0,3
+1697,Ristorante Cavaliere dal 1985,Italy,4.5,1
+1698,Ristorante Pizzeria da Riccardo,Italy,4.0,3
+1699,green bar tavola calda,Italy,4.0,1
+1700,Ristorante Novecento,Italy,4.0,3
+1701,La Posta,Italy,4.0,3
+1702,Osteria Il Piccolo Borgo,Italy,4.5,3
+1703,Ristorante La Vecchia Cantina,Italy,3.5,3
+1704,Il Tenimento,Italy,4.5,3
+1705,A Maidda - Trattoria e Rosticceria,Italy,4.5,3
+1706,Il Giardino dei Sapori,Italy,4.5,3
+1707,La Casa Azzurra San Basilio,Italy,4.5,3
+1708,La Moresca,Italy,5.0,5
+1709,Ristorante Poseidon,Italy,4.0,3
+1710,Pizzeria forno a legna,Italy,4.5,1
+1711,See You,Italy,4.0,3
+1712,Self service cappello,Italy,4.0,1
+1713,Rosticceria Casa Rosa,Italy,4.0,1
+1714,Trattoria Pizzeria Gbm,Italy,4.0,1
+1715,La Bella Lira,Italy,4.5,1
+1716,Panineria 99,Italy,4.5,1
+1717,Pizzeria Capriccio,Italy,4.5,1
+1718,Bruno,Italy,4.0,1
+1719,Casale Graffetta,Italy,4.5,3
+1720,Il Braciere,Italy,4.0,1
+1721,Il Tempio della Pizza,Italy,4.0,3
+1722,Soda Thanks,Italy,4.0,3
+1723,La Baia - Porto Ulisse,Italy,3.5,3
+1724,Osteria del Castagno,Italy,4.0,3
+1725,Pontormo Caffé,Italy,4.5,1
+1726,La Montagnola,Italy,4.0,3
+1727,Osteria Pinchiorba,Italy,4.0,3
+1728,Pizzeria Non Sul Collo,Italy,4.5,3
+1729,Le Tre Case,Italy,4.0,3
+1730,Ristorante Boscotondo,Italy,4.0,3
+1731,Il Gatto e La Volpe,Italy,4.0,3
+1732,Trattoria Toscana Sant'Ilario,Italy,4.5,3
+1733,Osteria del Pellegrino,Italy,4.0,3
+1734,Beltempo,Italy,4.5,3
+1735,La Collina,Italy,3.5,1
+1736,I Sapori di Mondotella,Italy,4.0,3
+1737,Antica Locanda del Contrabbandiere,Italy,4.5,3
+1738,Agriturismo Trattoria Dalla Bertilla,Italy,4.0,3
+1739,Ristorante Muliner,Italy,4.5,5
+1740,Agriturismo Corte La Sacca,Italy,4.0,1
+1741,Fenil Conter,Italy,4.5,3
+1742,Ristorante La Muraglia,Italy,3.5,3
+1743,Chervo Golf San Vigilio Restaurant,Italy,4.0,3
+1744,Osteria Pizzeria Muriti',Italy,4.0,3
+1745,Agriturismo Feliciana,Italy,4.0,3
+1746,La Fenice,Italy,3.5,3
+1747,Ristorante Pizzeria Ricevimenti Sapori D'Opera,Italy,4.0,3
+1748,Agriturismo Santojanni,Italy,4.0,3
+1749,Agriturismo Cozzo del Cuoco,Italy,4.0,1
+1750,Il Boccone del Re,Italy,5.0,3
+1751,Trattoria La Reginella,Italy,4.5,3
+1752,Dawn Port Pub,Italy,4.0,3
+1753,Il Cantuccio,Italy,3.5,3
+1754,Antica Caffetteria Conte,Italy,3.5,1
+1755,Ristorante Flora,Italy,4.0,3
+1756,Le Mimose,Italy,4.0,3
+1757,Le Arcate,Italy,4.0,1
+1758,Vesuvio,Italy,3.5,3
+1759,Vecchia Paola,Italy,3.5,1
+1760,Ristorante Pizzeria Il castello,Italy,3.5,3
+1761,Pub Black Bird,Italy,3.0,3
+1762,La Petrulla,Italy,3.0,3
+1763,Pizzeria Free Time,Italy,3.0,1
+1764,RISTORANTE Atmosfera Versatile -,Italy,4.0,3
+1765,Ristorante Pizzeria La Fiumara,Italy,3.0,3
+1766,Papla Piadineria e Non Solo,Italy,4.5,1
+1767,Brivido Gelateria Artigianale,Italy,3.5,3
+1768,Il Casello b&b e ristorazione di Noce Giuseppina,Italy,4.0,1
+1769,Gastronomia Focetola,Italy,4.0,3
+1770,Ristorante Pizzeria La Palombara,Italy,4.0,3
+1771,Ristorante A'bbubbazza,Italy,3.5,3
+1772,Old Square,Italy,3.5,3
+1773,Pizzeria Pulcinella,Italy,4.0,3
+1774,Pizzeria Eureka Di Laudonio e Storino SDF,Italy,2.5,1
+1775,Trattoria Da Capone,Italy,4.0,3
+1776,Panificio s. Agata,Italy,4.0,1
+1777,90 Gradi,Italy,4.0,1
+1778,Bar Beniamino di Ollio Domenico,Italy,3.5,3
+1779,Bar Zurigo Di Gentile Vittorio,Italy,4.5,1
+1780,Brunnen,Italy,4.5,3
+1781,Ristorante del Lido Palm Beach,Italy,4.0,3
+1782,360 Gradi,Italy,3.5,1
+1783,Monangi Brew Pub,Italy,4.0,1
+1784,100 Montaditos,Italy,3.0,1
+1785,La Latteria,Italy,4.5,3
+1786,Sumo Sushi Ristorante Asian Fusion,Italy,4.0,3
+1787,Food Village Restaurant,Italy,5.0,3
+1788,Mex Indo,Italy,4.0,3
+1789,Ristorante Al Faro,Italy,4.0,3
+1790,Osteria del Conte,Italy,4.5,5
+1791,Trattoria Il Carroccio,Italy,4.0,1
+1792,Cielo Cocktail Bar,Italy,4.0,3
+1793,La Pagoda,Italy,4.0,1
+1794,L'Anonimo,Italy,4.0,3
+1795,Bar Quinto Vizio,Italy,4.0,1
+1796,Trattoria Sole,Italy,4.0,1
+1797,Ristorante Daina,Italy,4.0,3
+1798,Paprika Jazz Club Dalmine,Italy,3.5,3
+1799,Il Gattopardo,Italy,4.0,3
+1800,Pizza in Piazza,Italy,4.0,1
+1801,Pino's Pizza,Italy,5.0,1
+1802,Bobadilla Feeling Club,Italy,4.0,3
+1803,Gelateria SottoSopra,Italy,4.5,1
+1804,Capitan Pizza,Italy,4.5,1
+1805,Sisters Pizza & Coffee,Italy,3.0,1
+1806,Old Wild West,Italy,3.5,1
+1807,Il Ghiottone,Italy,4.0,1
+1808,Osteria la Vecchia Ferrovia,Italy,4.5,3
+1809,Il Caffe' Del Viale,Italy,3.5,3
+1810,Roadhouse Restaurant,Italy,3.5,3
+1811,Binomio,Italy,4.0,5
+1812,Pasticceria Gelateria Gamba,Italy,4.0,3
+1813,Oyo Sushi,Italy,4.0,3
+1814,McDonald's,Italy,2.0,1
+1815,Gelateria Dolce Freddo,Italy,4.0,1
+1816,Sangiuda Gelateria,Italy,4.5,3
+1817,La Bottega del Caffè,Italy,5.0,3
+1818,SottoSopra,Italy,4.0,3
+1819,Osteria dei Vinattieri,Italy,4.0,3
+1820,Washington 2,Italy,3.5,1
+1821,Ristorante Bar Il Pontile,Italy,4.0,3
+1822,Pizzeria Titanic,Italy,3.0,1
+1823,Ristorante Pizzeria San Giorgio,Italy,3.5,1
+1824,Phoenicia,Italy,4.5,3
+1825,Pizzeria Alfonsine,Italy,3.5,3
+1826,La vineria del vin bón,Italy,4.5,3
+1827,Mulberry St Italian Caffè,Italy,4.5,3
+1828,L’Isola,Italy,4.0,1
+1829,Koya Restaurant,Italy,3.0,3
+1830,La Locanda Del Gianpy,Italy,4.0,3
+1831,Piada e Bollicine,Italy,4.0,1
+1832,Ristorante Eolo,Italy,4.0,3
+1833,Ristorante Il Camino,Italy,3.5,3
+1834,Nonna Emilia - Moderna Trattoria,Italy,4.0,3
+1835,Ristorante Pizzeria Borgo di Mare,Italy,3.5,3
+1836,Ristorante Quattro Archi,Italy,3.5,1
+1837,5 Colonne,Italy,3.5,3
+1838,Banshee Rg,Italy,3.5,3
+1839,I Tri Basei,Italy,4.0,3
+1840,Spaghi Italian Bistrot,Italy,3.0,3
+1841,Melrose Cafe Sushibar,Italy,4.0,3
+1842,Ristorante Osterietta,Italy,4.5,3
+1843,Trefor Cafe Ristorante Ristorante,Italy,4.0,3
+1844,Rossopomodoro San Donato,Italy,3.5,3
+1845,Il Timone,Italy,3.5,1
+1846,Stoker,Italy,3.0,3
+1847,Il Piccolo Cuoco,Italy,4.0,1
+1848,Nizza 2,Italy,3.5,1
+1849,Il Gelatiere,Italy,4.0,1
+1850,Ristorante Borgo Bagnolo,Italy,4.5,3
+1851,Bucataria de Acasa,Italy,4.5,3
+1852,Gelateria San Giuda,Italy,4.5,1
+1853,Pizzeria 2000 da Nino,Italy,3.5,1
+1854,Trattoria Bianchi,Italy,4.0,1
+1855,Cinque Colonne,Italy,3.5,3
+1856,Take Eat Easy,Italy,4.5,1
+1857,East Tower Caffe,Italy,3.0,1
+1858,Gastronomia meriggi,Italy,4.5,3
+1859,Giardino d'Oriente ,Italy,4.0,1
+1860,Bella Sicilia,Italy,4.5,1
+1861,Bar Minerva,Italy,3.0,1
+1862,La Meleria,Italy,4.0,3
+1863,Dreams Bay Café,Italy,4.5,1
+1864,Crowne Plaza,Italy,4.0,3
+1865,Restaurant and Pizza del Kick Off,Italy,3.5,1
+1866,Trieste,Italy,4.0,1
+1867,Gran Forno Zanaletti,Italy,3.5,1
+1868,Rare,Italy,3.5,3
+1869,Bar Azalea,Italy,4.0,1
+1870,Ice Cafè Pizza&Food,Italy,4.0,3
+1871,Le Bistrot,Italy,4.5,1
+1872,Pizza Club No Limits,Italy,4.0,1
+1873,Nice Man,Italy,4.0,1
+1874,Krember,Italy,4.0,1
+1875,Kaori Japanese Restaurant,Italy,3.5,3
+1876,Miho Japanese Restaurant,Italy,3.0,3
+1877,Magna & Bevi Michelazzo,Italy,3.5,3
+1878,Pizzeria Red Sky,Italy,3.5,3
+1879,Trattoria La Rondinella,Italy,4.0,3
+1880,Ristorante Pizzeria La Rotonda,Italy,4.0,3
+1881,Ristorante Pizzeria King Varedo,Italy,4.0,3
+1882,L'aragosta,Italy,3.5,3
+1883,Hotel Ristorante Golfetto,Italy,3.5,1
+1884,Pertusini,Italy,4.0,3
+1885,Nuvole di Gelato,Italy,4.5,1
+1886,Burger King,Italy,3.5,1
+1887,Lera,Italy,3.5,3
+1888,McDonald's,Italy,4.0,1
+1889,Gelateria Caffetteria del Sole,Italy,4.0,3
+1890,Crazy Driver Rock 'n' Grill,Italy,3.5,3
+1891,Meat Up Birra & Gusto,Italy,4.5,3
+1892,Pizzeria La Favola,Italy,4.0,1
+1893,Officina del Gusto,Italy,3.5,3
+1894,Origini Ristorante,Italy,4.5,3
+1895,Hotel La Falconara Restaurant And Pizzeria,Italy,3.5,3
+1896,La Locanda di Alia Ristorante,Italy,4.5,5
+1897,Min Fusion Restaurant,Italy,4.0,3
+1898,Osteria La Torre Infame,Italy,3.5,3
+1899,La Locanda del Nonno,Italy,4.0,3
+1900,Pizzeria Il Portico,Italy,4.0,3
+1901,Ristorante Pizzeria Del Cavaliere,Italy,4.5,3
+1902,Tre Stelle,Italy,4.0,3
+1903,Sottosopra,Italy,4.0,1
+1904,Casa Del Ferroviere,Italy,4.0,1
+1905,Il Teatro Dei Sapori,Italy,4.0,3
+1906,L'Antico Torchio,Italy,4.0,3
+1907,Il Mulino Pizzeria RistoPub,Italy,2.5,3
+1908,Capani La gelateria,Italy,4.5,1
+1909,Pizzeria & Ristorante Pomodoro Fresco,Italy,4.0,3
+1910,La Taverna degli Ammirati,Italy,4.5,3
+1911,Benvenuti al Sud,Italy,4.5,3
+1912,Pasticceria Rex,Italy,5.0,3
+1913,Hemingway,Italy,4.5,3
+1914,Pizzeria Da Filomena,Italy,4.0,3
+1915,Agriturismo Petrosa,Italy,4.5,3
+1916,Risto Suite,Italy,4.5,3
+1917,Maperò,Italy,4.0,3
+1918,Masseria Cimadomo,Italy,4.0,3
+1919,L'Escargot Ristorante,Italy,4.5,3
+1920,STORYTELLER -banco a ristoro-,Italy,4.0,3
+1921,Rocket King,Italy,4.0,3
+1922,Zinnanna Zinnanna,Italy,4.0,3
+1923,Controvento,Italy,5.0,3
+1924,After,Italy,5.0,1
+1925,Agriturismo Posta Mangieri,Italy,5.0,3
+1926,La Polpetteria Apulian Street Food,Italy,5.0,1
+1927,3/14 Taverna Gr,Italy,4.5,3
+1928,Evoluzione - All'origine dei Sapori,Italy,4.5,3
+1929,Osteria la Vigna,Italy,5.0,3
+1930,Enoteca La Bottega Dell'Allegria,Italy,4.0,3
+1931,Red Rock,Italy,5.0,3
+1932,Il Chiodo Fisso,Italy,4.0,3
+1933,Ciccio in Cucina,Italy,4.0,1
+1934,Masseria Torre di Nebbia,Italy,4.5,3
+1935,Sevent In,Italy,4.5,3
+1936,Ai Pilieri di Bagnoli,Italy,4.5,3
+1937,Il Forno di Tiuccio,Italy,4.5,3
+1938,Casale 1908,Italy,4.0,3
+1939,Pit Stop Bar & Ristopizza,Italy,4.0,1
+1940,La pace dei sensi di Mariano Como,Italy,4.5,3
+1941,La Locanda di Beatrice,Italy,4.5,3
+1942,Pizzeria Il buco,Italy,4.0,1
+1943,Agriturismo San Giuseppe,Italy,4.0,1
+1944,Ostaria Povero Pesce,Italy,4.5,3
+1945,Antico Bar Commercio,Italy,4.5,1
+1946,Le Coq,Italy,4.0,1
+1947,La Locanda du Baron,Italy,4.0,3
+1948,Pizzeria Zorba,Italy,4.0,1
+1949,Agriturismo La Locanda Tra Gli Ulivi,Italy,4.5,3
+1950,Villa Calendano,Italy,3.0,3
+1951,To Be/er,Italy,4.0,3
+1952,Esedra Pizzeria,Italy,3.5,3
+1953,Yogurtissimo,Italy,4.5,1
+1954,TERZO TEMPO,Italy,4.5,3
+1955,Pantheon Ristorante,Italy,4.0,5
+1956,Delicious Pizza,Italy,4.5,1
+1957,La Comida,Italy,4.0,1
+1958,Gusto,Italy,4.5,1
+1959,Rubio's Corato,Italy,4.0,1
+1960,Pastificio Sole,Italy,5.0,1
+1961,Il Galletto,Italy,4.5,1
+1962,Scambulet Pizzeria,Italy,4.0,1
+1963,Risto Lime,Italy,4.0,1
+1964,Astoria Palace Ricevimenti,Italy,4.5,3
+1965,Polvere Di Rose,Italy,4.0,5
+1966,La Fazenda Trattoria,Italy,4.0,3
+1967,Al Mulo Cojone,Italy,4.5,3
+1968,Il Tavolaccio,Italy,4.0,3
+1969,Agriturismo Zia Tina,Italy,4.5,3
+1970,Pizzeria Murgia,Italy,4.0,3
+1971,Cristalli di Sale,Italy,4.5,3
+1972,Quattro Passi,Italy,4.5,3
+1973,Procacci Ristorante,Italy,4.5,3
+1974,Tancau,Italy,3.5,3
+1975,Il Castello,Italy,4.0,1
+1976,Il Gabbiano Bar Pizzeria,Italy,3.5,1
+1977,Panetteria Ferreli,Italy,4.0,1
+1978,Pasticceria Quirini,Italy,5.0,3
+1979,Ristorante Panoramico La Foresteria,Italy,4.0,3
+1980,Azienda Agricola Puccini Nadia,Italy,4.5,3
+1981,Pesce e Pasta Monsummano Terme,Italy,4.0,1
+1982,Quelli di Don Panino,Italy,5.0,1
+1983,Don Mimi,Italy,4.0,1
+1984,Ristorante I Violi,Italy,4.0,3
+1985,Cicceria Sale e Pepe,Italy,5.0,3
+1986,Il Pirata 945,Italy,5.0,3
+1987,Il Maialetto,Italy,4.5,3
+1988,Da Remo,Italy,4.0,3
+1989,Cioccolateria slitti,Italy,4.5,5
+1990,La Cantina da Caino,Italy,4.0,3
+1991,Ristorante Pizzeria Sottogrotta,Italy,4.0,3
+1992,L'Angolo Nascosto,Italy,4.0,3
+1993,L'Osteria Di Roberta Mascani,Italy,4.5,1
+1994,Bar Pizzeria da Libe,Italy,3.5,1
+1995,Pasticceria Giovannini,Italy,4.0,3
+1996,Caffe del Podesta',Italy,4.0,1
+1997,Bar Galligani Il Re Del Cappuccino,Italy,4.5,1
+1998,La Quiete Di Zeni Marco,Italy,4.5,1
+1999,Ristorante Trattoria Valdinievole Antica,Italy,4.5,1
